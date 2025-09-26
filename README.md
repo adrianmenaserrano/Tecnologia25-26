@@ -5,5 +5,5 @@
 
 Este es el prototipo que he pensado hacer para colocar el mapa en una mesa que este inclinada para que se pueda ver todo el mapa.Lo segundo es colocar unos listones para que la mesa no se caiga.Y lo tercero es poner poner una cristalera con un plastico transparente para que nadie toque el mapa.
 
-<img src="imagenestecnología/invernadero.jpg" width="200" height="400" /> <img src="imagenestecnología/IMG_7741.jpeg" width="200" height="400" />
+<img src="imagenestecnología/invernadero.jpg" width="200" height="400" /> <img src="imagenestecnología/IMG_7739.jpeg" width="200" height="400" /> 
 
