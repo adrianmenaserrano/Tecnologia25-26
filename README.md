@@ -9,5 +9,5 @@ Este es el prototipo que he pensado hacer para colocar el mapa en una mesa que e
 <img src="imagenestecnología/invernadero.jpg" width="200" height="400" /> <img src="imagenestecnología/IMG_7739.jpeg" width="200" height="400" /> 
 <img src="imagenestecnología/IMG_7741.jpeg" width="200" height="400" /> 
 
-Lo que queremos hacer en este segundo trabajo es la recuperación del invernadero.Por tanto lo que teniamos que hacer es sacarle fotos y buscar posibles daños y soluciones para volver a recuperar el invernadero.Para ello habria que hacer un boceto principal de como queremos que quede el invernadero y si sale bien y si se puede hacer lo pasariamos al invernadero.
+Lo que queremos hacer en este segundo trabajo es la recuperación del invernadero.Por tanto lo que teniamos que hacer es sacarle fotos y buscar posibles daños y soluciones para volver a recuperar el invernadero.Para ello habria que hacer un boceto principal de como queremos que quede el invernadero y si sale bien y si se puede hacer lo pasariamos al invernadero.Actualmente el invernadero no se puede utilizar por lo mal que esta y por el poco uso que se le a dado de mantenimiento estos años.Para ello hemos planeado reconstruirlo con sus respectivos materiales dependiendo de si salen o no del presupuesto.
 
