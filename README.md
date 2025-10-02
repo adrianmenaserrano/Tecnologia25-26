@@ -2,7 +2,8 @@
 ## Cuaderno de clase para tecnología 4 de ESO A hecho por Adrián Mena Serrano
 # Parte 1.El mapa.
 <img src="imagenestecnología/IMG_7926.jpeg" width="150" height="300" /> <img src="imagenestecnología/1000094532.jpg" width="200" height="400" /> 
-<img src="imagenestecnología/1000094531.jpg" width="200" height="400" />
+<img src="imagenestecnología/1000094531.jpg" width="200" height="400" /> <img width="1090" height="511" alt="Powerful Albar" src="https://github.com/user-attachments/assets/f6d45b38-a758-4b27-baad-be82c84aed30" />
+
 
 Este es el prototipo que he pensado hacer para colocar el mapa en una mesa que este inclinada para que se pueda ver todo el mapa.Lo segundo es colocar unos listones para que la mesa no se caiga.Y lo tercero es poner poner una cristalera con un plastico transparente para que nadie toque el mapa.Aparte del prototipo estan tambien las fotos del mapa actual le falta que lo pinten entero de blanco colorcarlo en una mesa mas pequeña que en donde esta actualmente y comprarle sus respectivas cosas para que se vea más bonito y mejor que ahora mismo.
 # Materiales que se necesitarian para el mapa.
