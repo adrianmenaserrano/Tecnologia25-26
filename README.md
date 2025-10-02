@@ -1,4 +1,4 @@
-# Tecnoloía25-26
+# Tecnología25-26
 ## Cuaderno de clase para tecnología 4 de ESO A hecho por Adrián Mena Serrano
 # Parte 1.El mapa.
 <img src="imagenestecnología/IMG_7926.jpeg" width="150" height="300" /> <img src="imagenestecnología/1000094532.jpg" width="200" height="400" /> 
