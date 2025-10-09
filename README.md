@@ -10,7 +10,8 @@ Este es el prototipo que he pensado hacer. Lo que hay que hacer es colocar el ma
 Lo que yo creo que se necesitarian para el mapa son unas mesas que ya tenemos, listones que estan a 8,99 euros que sean de tipo largos,tela para que no se vea los listones que de eso  tenemos y metacrilato quue esta a 6,50 euros el más barato.Tambien varian los precios de pendiendo de cuanto necesitemos por cada objeto.
 # Parte 2.El invernadero.
 <img src="imagenestecnología/invernadero.jpg" width="200" height="400" /> <img src="imagenestecnología/IMG_7739.jpeg" width="200" height="400" /> 
-<img src="imagenestecnología/IMG_7741.jpeg" width="200" height="400" />  <img width="539" height="289" alt="image" src="https://github.com/user-attachments/assets/421cdbad-d7fb-40ea-bf01-27faeb0d6b1d" />
+<img src="imagenestecnología/IMG_7741.jpeg" width="200" height="400" />  <img width="594" height="324" alt="image" src="https://github.com/user-attachments/assets/32544f14-84f4-437b-865b-1ca8ebe42ef9" />
+
 
 
 Lo que queremos hacer en este segundo trabajo es la recuperación del invernadero.Por tanto lo que teniamos que hacer es sacarle fotos y buscar posibles daños y soluciones para volver a recuperar el invernadero.Para ello habria que hacer un boceto principal de como queremos que quede el invernadero y si sale bien y si se puede hacer lo pasariamos al invernadero.Actualmente el invernadero no se puede utilizar por lo mal que esta y por el poco uso que se le a dado de mantenimiento estos años.Para ello hemos planeado reconstruirlo con sus respectivos materiales dependiendo de si salen o no del presupuesto.
