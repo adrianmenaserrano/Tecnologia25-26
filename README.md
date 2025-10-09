@@ -10,7 +10,8 @@ Este es el prototipo que he pensado hacer. Lo que hay que hacer es colocar el ma
 Lo que yo creo que se necesitarian para el mapa son unas mesas que ya tenemos, listones que estan a 8,99 euros que sean de tipo largos,tela para que no se vea los listones que de eso  tenemos y metacrilato quue esta a 6,50 euros el más barato.Tambien varian los precios de pendiendo de cuanto necesitemos por cada objeto.
 # Parte 2.El invernadero.
 <img src="imagenestecnología/invernadero.jpg" width="200" height="400" /> <img src="imagenestecnología/IMG_7739.jpeg" width="200" height="400" /> 
-<img src="imagenestecnología/IMG_7741.jpeg" width="200" height="400" />  <img width="594" height="324" alt="image" src="https://github.com/user-attachments/assets/32544f14-84f4-437b-865b-1ca8ebe42ef9" />
+<img src="imagenestecnología/IMG_7741.jpeg" width="200" height="400" />  <img width="617" height="361" alt="image" src="https://github.com/user-attachments/assets/76c00317-d795-41d5-b9ea-2c36b8c13aa5" />
+
 
 
 
