@@ -5,7 +5,7 @@
 
 
 
-Este es el prototipo que he pensado hacer.Es ponerlo en una zona del instituto para que  sea visible para todo el mundo y lo que hay que hacer es colocar el mapa en una mesa que esté inclinada, para que se pueda ver todo el mapa.
+Este es el prototipo que he pensado hacer es ponerlo en una zona del instituto para que  sea visible para todo el mundo y lo que hay que hacer es colocar el mapa en una mesa que esté inclinada, para que se pueda ver todo el mapa.
 Lo segundo es colocar unos listones para que la mesa no se caiga.
 Y lo tercero es poner una cristalera o un plástico transparente para que nadie toque el mapa.
 
