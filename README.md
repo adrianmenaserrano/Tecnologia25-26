@@ -5,7 +5,12 @@
 
 
 
-Este es el prototipo que he pensado hacer. Lo que hay que hacer es colocar el mapa en una mesa que este inclinada para que se pueda ver todo el mapa.Lo segundo es colocar unos listones para que la mesa no se caiga.Y lo tercero es poner poner una cristalera con un plastico transparente para que nadie toque el mapa.Aparte del prototipo estan tambien las fotos del mapa actual le falta que lo pinten entero de blanco colorcarlo en una mesa mas pequeña que en donde esta actualmente y comprarle sus respectivas cosas para que se vea más bonito y mejor que ahora mismo.
+Este es el prototipo que he pensado hacer. Lo que hay que hacer es colocar el mapa en una mesa que esté inclinada, para que se pueda ver todo el mapa.
+Lo segundo es colocar unos listones para que la mesa no se caiga.
+Y lo tercero es poner una cristalera o un plástico transparente para que nadie toque el mapa.
+
+Aparte del prototipo, también están las fotos del mapa actual. Le falta que lo pinten entero de blanco, colocarlo en una mesa más pequeña que en la que está actualmente y comprarle sus respectivas cosas para que se vea más bonito y mejor que ahora mismo.
+(corregido por chatgpt)
 ## Materiales que se necesitarian para el mapa.
 Lo que yo creo que se necesitarian para el mapa son unas mesas que ya tenemos, listones que estan a 8,99 euros que sean de tipo largos,tela para que no se vea los listones que de eso  tenemos y metacrilato quue esta a 6,50 euros el más barato.Tambien varian los precios de pendiendo de cuanto necesitemos por cada objeto.
 # Parte 2.El invernadero.
