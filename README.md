@@ -7,7 +7,7 @@
 
 Este es el prototipo que he pensado.Lo primero que hay que hacer es ponerlo en una zona del instituto para que  sea visible para todo el mundo. Lo segundo que hay que hacer es colocar el mapa en una mesa que esté inclinada, para que se pueda ver todo el mapa.
 Lo tercero es colocar unos listones para que la mesa no se caiga.
-Y lo cuarto es poner una cristalera o un plástico transparente para que nadie toque el mapa.
+Y lo cuarto es poner una cristalera o un plástico transparente hecho de metagrilato para que nadie toque el mapa.
 
 Aparte del prototipo, también están las fotos del mapa actual. Le falta que lo pinten entero de blanco, colocarlo en una mesa más pequeña que en la que está actualmente y comprarle sus respectivas cosas para que se vea más bonito y mejor que ahora mismo
 (corregido por ChatGPT).
