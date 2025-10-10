@@ -21,6 +21,7 @@ Lo que yo creo que se necesitarian para el mapa son unas mesas que ya tenemos, l
 
 
 
-Lo que queremos hacer en este segundo trabajo es la recuperación del invernadero.Por tanto lo que teniamos que hacer es sacarle fotos y buscar posibles daños y soluciones para volver a recuperar el invernadero.Para ello habria que hacer un boceto principal de como queremos que quede el invernadero y si sale bien y si se puede hacer lo pasariamos al invernadero.Actualmente el invernadero no se puede utilizar por lo mal que esta y por el poco uso que se le a dado de mantenimiento estos años.Para ello hemos planeado reconstruirlo con sus respectivos materiales dependiendo de si salen o no del presupuesto.
+Lo que queremos hacer en este segundo trabajo es la recuperación del invernadero. Por tanto, lo que teníamos que hacer es sacarle fotos y buscar posibles daños y soluciones para volver a recuperar el invernadero. Para ello, habría que hacer un boceto principal de cómo queremos que quede el invernadero y, si sale bien y se puede hacer, lo pasaríamos al invernadero.
+Actualmente, el invernadero no se puede utilizar por lo mal que está y por el poco uso y mantenimiento que se le ha dado estos años. Para ello, hemos planeado reconstruirlo con sus respectivos materiales, dependiendo de si entran o no en el presupuesto.(corregido por chatgpt).
 ## Materiales respectivos para el invernadero.
 Los materiales que necesitariamos seria madera por metro cuadrado que el  esta a 21 euros el metro una puerta de madera de 2m  esta a 63 euros el mas barato. Una ventanita de 50 cm seria unos 53 euros y el plastico de invernadero que  esta a 31 euros dependiendo del tamaño del invernadero y de cuanto querriamos tener.
