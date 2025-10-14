@@ -13,6 +13,7 @@ Aparte del prototipo, también están las fotos del mapa actual. Le falta que lo
 (corregido por ChatGPT).
 ## Materiales que se necesitarian para el mapa.
 Lo que yo creo que se necesitarian para el mapa son unas mesas que ya tenemos, listones que estan a 8,99 euros y que sean de tipo largos,tela para que no se vea los listones que de eso  tenemos y metacrilato quue esta a 17,50 euros .Tambien varian los precios de pendiendo de cuanto necesitemos por cada objeto o de lo grande que sea el objeto que necesitemos.
+## Tabla de objetivos del mapa.
 # Parte 2.El invernadero.
 <img src="imagenestecnología/invernadero.jpg" width="200" height="400" /> <img src="imagenestecnología/IMG_7739.jpeg" width="200" height="400" /> 
 <img src="imagenestecnología/IMG_7741.jpeg" width="200" height="400" /> <img width="660" height="377" alt="image" src="https://github.com/user-attachments/assets/1afd02ef-596a-4d52-a8c0-5129b4f77d68" />
