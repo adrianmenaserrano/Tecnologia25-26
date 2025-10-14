@@ -24,3 +24,4 @@ Actualmente, el invernadero no se puede utilizar por lo mal que está y por el p
 Los materiales que necesitaríamos serían: madera por metro cuadrado, que está a 21 euros el metro; una puerta de madera de 2 metros, que cuesta 63 euros la más barata; una ventanita de 50 cm, que saldría por unos 53 euros; y el plástico de invernadero, que está a 31 euros, dependiendo del tamaño del invernadero y de cuánto quisiéramos tener (corregido por ChatGPT).
 ## Tabla de los objetivos del invernadero
 <img src="imagenestecnología/hoja de calculo.png" />
+Esta  es la planificacion que tengo preparada para la reconstruccion del invernadero.
