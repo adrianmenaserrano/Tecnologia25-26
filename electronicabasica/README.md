@@ -19,14 +19,23 @@ Un transistor es un componente electrónico semiconductor que funciona como un a
 
 # SIMBOLOS DE CADA UNO DE LOS COMPONENTES ELECTRONICOS.
 ## RESISTENCIA FIJA.
+
 <img width="280" height="180" alt="image" src="https://github.com/user-attachments/assets/d68e33eb-3cc3-49bd-b807-6acdfb70c056" />
+
 ## CONDENSADORES.
+
 <img width="293" height="172" alt="image" src="https://github.com/user-attachments/assets/07f9f435-7bcc-43ea-8418-7d19d6339f8f" />
+
 ## DIODOS.
+
 <img width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/18f05c08-ce8e-47fb-aec3-c64ff0078b04" />
+
 ## DIODOS LED.
+
 <img width="347" height="145" alt="image" src="https://github.com/user-attachments/assets/1dbf6ad1-32ed-41e3-9809-35b8954adc23" />
+
 ## TRANSITORES
+
 <img width="209" height="242" alt="image" src="https://github.com/user-attachments/assets/f362332b-ed92-4b4f-a356-78c92440e0c1" />
 
 
