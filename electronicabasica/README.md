@@ -6,8 +6,6 @@ Las resistencias fijas son componentes que forman parte de un circuito eléctric
 Un condensador es un dispositivo eléctrico que almacena energía en forma de campo eléctrico.
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9b01b424-25b6-426e-b437-df38fd077782" />
-
-
 ## 3 DIODOS.
 Un diodo es un dirigidor de corriente que permite pasar los electrones en un sentido y no en el otro.
 <img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/54c0ce47-479d-4792-a157-87be5e407712" />
