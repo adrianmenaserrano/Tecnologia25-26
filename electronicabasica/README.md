@@ -56,6 +56,14 @@ Lo usamos para saber si un codigo ha salido bien emitira luz o saldra de otras f
 ## TRANSITORES
 Lo usamos para controlar el flujo de la corriente electrica en un circuito
 
+# ¿Para que sirve cada uno de ellos?
+## RESISTENCIA
+Una resistencia sirve para limitar la corriente eléctrica, proteger componentes electrónicos, dividir voltajes y generar calor.
+## CONDENSADORES
+Un condensador sirve principalmente para almacenar energía en forma de campo eléctrico y liberarla rápidamente cuando se necesita.
+## DIDODOS 
+Sirve para pasar una corriente electrica por un lado y que no salga por el otro lado
+
 
 
 
