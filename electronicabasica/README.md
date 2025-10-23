@@ -5,7 +5,7 @@ Las resistencias fijas son componentes que forman parte de un circuito eléctric
 <img width="470" height="340" alt="image" src="https://github.com/user-attachments/assets/9a924bc3-f4a8-489f-ac81-22e0348b5528" />
 ## 2 CONDENSADORES.
 ## ¿Como funciona?
-Un condensador es un dispositivo eléctrico que almacena energía en forma de campo eléctrico.
+Un condensador sirve principalmente para almacenar energía en forma de campo eléctrico y liberarla rápidamente cuando se necesita. 
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9b01b424-25b6-426e-b437-df38fd077782" />
 
