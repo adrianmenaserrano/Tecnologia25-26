@@ -11,11 +11,11 @@ Un condensador sirve principalmente para almacenar energía en forma de campo el
 
 ## 3 DIODOS.
 ## ¿Como funciona?
-Un diodo es un dirigidor de corriente que permite pasar los electrones en un sentido y no en el otro.
+Un diodo sirve principalmente para controlar el flujo de corriente eléctrica, permitiéndola pasar en un solo sentido.
 <img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/54c0ce47-479d-4792-a157-87be5e407712" />
 ## 4 DIODOS LEDS.
 ## ¿Como funciona?
-Un LED es un tipo de diodo con la caracterictica de que solo emite luz solo cuando es atravesado por corrientes electricas.
+Un diodo LED sirve principalmente como diodo emisor de luz. Su función principal es convertir la electricidad en luz de manera muy eficiente, y se utiliza en una gran variedad de aplicaciones, como la iluminación, la señalización, los indicadores electrónicos y las pantallas. 
 <img width="276" height="183" alt="image" src="https://github.com/user-attachments/assets/b1f5514f-eb4a-4fc4-92ce-3cd570e7741d" />
 ## 5 TRANSITORES.
 ## ¿Como funciona?
