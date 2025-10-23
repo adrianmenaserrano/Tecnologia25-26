@@ -1,23 +1,23 @@
 # Electronica basica
-## 1 RESISTENCIA FIJA.
+# 1 RESISTENCIA FIJA.
 ## ¿Como funciona?
 Las resistencias fijas son componentes que forman parte de un circuito eléctrico y se utilizan para reducir el flujo de electricidad.
 <img width="470" height="340" alt="image" src="https://github.com/user-attachments/assets/9a924bc3-f4a8-489f-ac81-22e0348b5528" />
-## 2 CONDENSADORES.
+# 2 CONDENSADORES.
 ## ¿Como funciona?
 Un condensador sirve principalmente para almacenar energía en forma de campo eléctrico y liberarla rápidamente cuando se necesita. 
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9b01b424-25b6-426e-b437-df38fd077782" />
 
-## 3 DIODOS.
+# 3 DIODOS.
 ## ¿Como funciona?
 Un diodo sirve principalmente para controlar el flujo de corriente eléctrica, permitiéndola pasar en un solo sentido.
 <img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/54c0ce47-479d-4792-a157-87be5e407712" />
-## 4 DIODOS LEDS.
+# 4 DIODOS LEDS.
 ## ¿Como funciona?
-Un diodo LED sirve principalmente como diodo emisor de luz. Su función principal es convertir la electricidad en luz de manera muy eficiente, y se utiliza en una gran variedad de aplicaciones, como la iluminación, la señalización, los indicadores electrónicos y las pantallas. 
+Un diodo LED sirve principalmente como diodo emisor de luz. Su función principal es convertir la electricidad en luz de manera muy eficiente, y se utiliza en una gran variedad de aplicaciones, como la iluminación, los indicadores electrónicos y las pantallas. 
 <img width="276" height="183" alt="image" src="https://github.com/user-attachments/assets/b1f5514f-eb4a-4fc4-92ce-3cd570e7741d" />
-## 5 TRANSITORES.
+# 5 TRANSITORES.
 ## ¿Como funciona?
 Un transistor es un componente electrónico semiconductor que funciona como un amplificador o un interruptor para controlar el flujo de corriente eléctrica en un circuito.
 
