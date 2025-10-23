@@ -63,6 +63,10 @@ Una resistencia sirve para limitar la corriente eléctrica, proteger componentes
 Un condensador sirve principalmente para almacenar energía en forma de campo eléctrico y liberarla rápidamente cuando se necesita.
 ## DIDODOS 
 Sirve para pasar una corriente electrica por un lado y que no salga por el otro lado
+## DIODOS LED
+Es un objeto el cual se encarga en imitir luz mediante un codigo.
+## TRANSITORES
+Sirve para ampliar las señales de energias electricas.
 
 
 
