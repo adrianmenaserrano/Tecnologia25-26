@@ -43,6 +43,7 @@ Un transistor es un componente electrónico semiconductor que funciona como un a
 ## TRANSITORES
 
 <img width="209" height="242" alt="image" src="https://github.com/user-attachments/assets/f362332b-ed92-4b4f-a356-78c92440e0c1" />
+
 # ¿Como lo usamos en clase?
 ## RESISTENCIAS
  Lo usamos para aguantar la resistencia que usamos para el circuito
