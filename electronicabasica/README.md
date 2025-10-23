@@ -20,6 +20,7 @@ Un LED es un tipo de diodo con la caracterictica de que solo emite luz solo cuan
 ## 5 TRANSITORES.
 ## ¿Como funciona?
 Un transistor es un componente electrónico semiconductor que funciona como un amplificador o un interruptor para controlar el flujo de corriente eléctrica en un circuito.
+
 <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/14762bbc-4d1d-4cbc-a54c-514d8fea742f" />
 
 # SIMBOLOS DE CADA UNO DE LOS COMPONENTES ELECTRONICOS.
