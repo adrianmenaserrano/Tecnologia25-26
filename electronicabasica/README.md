@@ -1,4 +1,9 @@
 # Electronica basica
+# indíce.
+-¿Que es?
+-¿Como funciona?
+-Sus simbolosC
+-¿Para que sirve en clase
 # 1 RESISTENCIA FIJA.
 ## ¿Como funciona?
 Las resistencias fijas son componentes que forman parte de un circuito eléctrico y se utilizan para reducir el flujo de electricidad.
