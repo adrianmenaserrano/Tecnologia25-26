@@ -16,14 +16,22 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 # SUS SIMBOLOS.
 ## LA PUERTA NOT.
 <img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/80c801ae-636b-4ab3-8191-50bd8db0dd13" />
+
 ## LA PUERTA AND.
 <img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/e8c807b2-f084-4232-9193-bb5f1a94e4fb" />
+
 ## La OR.
+
 <img width="230" height="124" alt="image" src="https://github.com/user-attachments/assets/030201f1-c213-404e-98cd-d07a0730fc5e" />
+
 ## LA PUERTA XOR.
+
 <img width="262" height="124" alt="image" src="https://github.com/user-attachments/assets/aa243272-1958-4888-9b53-1a1038392f19" />
+
 ## LA PUERTA NOR.
+
 <img width="283" height="124" alt="image" src="https://github.com/user-attachments/assets/55dccc96-5740-40b9-914e-8391e6720243" />
+
 ## LA PUERTA NAND.
 <img width="289" height="175" alt="image" src="https://github.com/user-attachments/assets/8c3b8a79-8aa3-4152-9e95-bd4200ab3af0" />
 <img width="262" height="124" alt="image" src="https://github.com/user-attachments/assets/47a88ad9-0fbd-4358-9aeb-6746a18e22f2" />
