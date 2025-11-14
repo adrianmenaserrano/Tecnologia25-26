@@ -1,6 +1,7 @@
 # Tecnología25-26
 ## Cuaderno de clase para tecnología 4 de ESO A hecho por Adrián Mena Serrano
 # Parte 1.El mapa.
+![1000094532 (2)](https://github.com/user-attachments/assets/d96524f6-d66a-48e0-ae92-6f2919236a30)
 
  ![IMG_7926](https://github.com/user-attachments/assets/e5a1dd0c-3d6e-4a80-b1cd-99975ddb4e70)
 <img width="500" height="500" alt="Powerful Albar (2)" src="https://github.com/user-attachments/assets/77634d17-8dd7-4490-853e-81812f5277ab" />
