@@ -41,6 +41,16 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 
 es una tabla que muestra todas las posibles combinaciones de valores de entrada y el resultado de una operación lógica con números de unos y ceros.
 
+# ¿DE QUE TRATA EL ALGEBRA DE BOOLE?
+El Álgebra de Boole es un sistema matemático que se usa para trabajar con valores lógicos solo admite dos valores, típicamente 1 y 0,
+## EJEMPLO:
+El Álgebra de Boole trata de:
+
+🔹 Valores binarios (0 y 1)
+🔹 Operaciones lógicas
+🔹 Leyes para simplificar expresiones
+🔹 Diseño de circuitos digitales
+🔹 Base matemática de la tecnología moderna
 
 
 
