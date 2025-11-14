@@ -6,6 +6,7 @@ El funcionamiento de este circuito esque al conectar todos los cables al diodo l
 # CIRCUITO 2
 <img width="1366" height="510" alt="image" src="https://github.com/user-attachments/assets/d54b80f3-3372-424b-a837-2e17fee7db27" />
 
+el circuito hace exactamente lo mismo que el número 1 solo que ahora al iniciarse aharemos que un motor gire y dependiendo de si subimos o bajamos la intensidad del potenciometro la ruedecita del motor girara para un lado o para el otro.
 # CIRCUITO 3 
 
 <img width="1517" height="577" alt="image" src="https://github.com/user-attachments/assets/d0949ba2-0b43-4e5d-b383-dd82b9b228d7" />
