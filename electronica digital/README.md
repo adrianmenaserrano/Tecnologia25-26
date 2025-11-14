@@ -35,5 +35,12 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 ## LA PUERTA NAND.
 <img width="289" height="175" alt="image" src="https://github.com/user-attachments/assets/8c3b8a79-8aa3-4152-9e95-bd4200ab3af0" />
 
+# LA TABLA DE VERDAD.
+
+<img width="273" height="185" alt="image" src="https://github.com/user-attachments/assets/cee5374d-6e9f-498b-81b8-22b6bf5e4c2d" />
+
+es una tabla que muestra todas las posibles combinaciones de valores de entrada y el resultado de una operación lógica con números de unos y ceros.
+
+
 
 
