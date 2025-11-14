@@ -46,11 +46,15 @@ El Álgebra de Boole es un sistema matemático que se usa para trabajar con valo
 ## EJEMPLO:
 El Álgebra de Boole trata de:
 
-🔹 Valores binarios (0 y 1)
-🔹 Operaciones lógicas
-🔹 Leyes para simplificar expresiones
-🔹 Diseño de circuitos digitales
-🔹 Base matemática de la tecnología moderna
+1🔹 Valores binarios (0 y 1)
+
+2🔹 Operaciones lógicas
+
+3🔹 Leyes para simplificar expresiones
+
+4🔹 Diseño de circuitos digitales
+
+5🔹 Base matemática de la tecnología moderna
 
 
 
