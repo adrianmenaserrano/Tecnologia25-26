@@ -37,7 +37,7 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 
 # LA TABLA DE VERDAD.
 
-<img width="273" height="185" alt="image" src="https://github.com/user-attachments/assets/cee5374d-6e9f-498b-81b8-22b6bf5e4c2d" />
+<img width="184" height="274" alt="image" src="https://github.com/user-attachments/assets/838ad6c9-e57b-4565-b148-1476704e1a13" />
 
 es una tabla que muestra todas las posibles combinaciones de valores de entrada y el resultado de una operación lógica con números de unos y ceros.
 
