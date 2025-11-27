@@ -86,14 +86,17 @@ es una tabla que muestra todas las posibles combinaciones de valores de entrada 
 # ¿DE QUE TRATA EL ALGEBRA DE BOOLE?
 El Álgebra de Boole es un sistema matemático que se usa para trabajar con valores lógicos solo admite dos valores, típicamente 1 y 0,
 
-|a b c S|
-|0 0 0 0|
-|0 0 1 0|
-|0 1 1 0|
-|1 0 0 1|
-|1 0 1 0|
-|1 1 0 1|
-|1 1 1 1|
+| a | b | c | S |
+| - | - | - | - |
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 |
+| 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 1 |
+
 
 ## EJEMPLO:
 El Álgebra de Boole trata de:
