@@ -17,12 +17,12 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 ## LA PUERTA NOT.
 <img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/80c801ae-636b-4ab3-8191-50bd8db0dd13" />
 
-|A  B  S|
-|-------|
-|0  0  1|
-|0  1  0|
-|1  0  0|
-|1  1  0|
+|A | B | S|
+|--|---|--|
+|0 | 0 | 1|
+|0 | 1 | 0|
+|1 | 0 | 0|
+|1 | 1 | 0|
 
 ## LA PUERTA AND.
 <img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/e8c807b2-f084-4232-9193-bb5f1a94e4fb" />
