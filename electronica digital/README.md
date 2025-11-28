@@ -15,7 +15,8 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 
 # SUS SIMBOLOS.
 ## LA PUERTA NOT.
-<img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/80c801ae-636b-4ab3-8191-50bd8db0dd13" />
+<img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/80c801ae-636b-4ab3-8191-50bd8db0dd13" /> <img width="244" height="207" alt="image" src="https://github.com/user-attachments/assets/1d048faf-b377-47b5-b38d-6cd2e99036ae" />
+
 
 |A | B | S|
 |--|---|--|
@@ -25,7 +26,8 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 |1 | 1 | 0|
 
 ## LA PUERTA AND.
-<img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/e8c807b2-f084-4232-9193-bb5f1a94e4fb" />
+<img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/e8c807b2-f084-4232-9193-bb5f1a94e4fb" /> <img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/c3dd5ae9-3845-4543-9316-4816ee965fef" />
+
 
 |A | B | S|
 |--|---|--|
@@ -36,7 +38,8 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 
 ## La OR.
 
-<img width="230" height="124" alt="image" src="https://github.com/user-attachments/assets/030201f1-c213-404e-98cd-d07a0730fc5e" />
+<img width="230" height="124" alt="image" src="https://github.com/user-attachments/assets/030201f1-c213-404e-98cd-d07a0730fc5e" /> <img width="285" height="177" alt="image" src="https://github.com/user-attachments/assets/77c9c2f4-caee-4691-aa30-a1792b96ffcc" />
+
 
 |A | B | S|
 |--|---|--|
@@ -47,7 +50,8 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 
 ## LA PUERTA XOR.
 
-<img width="262" height="124" alt="image" src="https://github.com/user-attachments/assets/aa243272-1958-4888-9b53-1a1038392f19" />
+<img width="262" height="124" alt="image" src="https://github.com/user-attachments/assets/aa243272-1958-4888-9b53-1a1038392f19" /> <img width="285" height="177" alt="image" src="https://github.com/user-attachments/assets/b7c5033d-c917-41c3-bb6a-9812b262bbe4" />
+
 
 |A | B | S|
 |--|---|--|
@@ -58,7 +62,8 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 
 ## LA PUERTA NOR.
 
-<img width="283" height="124" alt="image" src="https://github.com/user-attachments/assets/55dccc96-5740-40b9-914e-8391e6720243" />
+<img width="283" height="124" alt="image" src="https://github.com/user-attachments/assets/55dccc96-5740-40b9-914e-8391e6720243" /> <img width="253" height="199" alt="image" src="https://github.com/user-attachments/assets/a9a0f51a-8b4b-4b3e-9c42-62f5b9e8d998" />
+
 
 |A | B | S|
 |--|---|--|
@@ -68,7 +73,8 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 |1 | 1 | 0|
 
 ## LA PUERTA NAND.
-<img width="289" height="175" alt="image" src="https://github.com/user-attachments/assets/8c3b8a79-8aa3-4152-9e95-bd4200ab3af0" />
+<img width="289" height="175" alt="image" src="https://github.com/user-attachments/assets/8c3b8a79-8aa3-4152-9e95-bd4200ab3af0" /> <img width="264" height="191" alt="image" src="https://github.com/user-attachments/assets/ab30ca86-301d-44c8-abb8-58c0711b31b5" />
+
 
 |A | B | S|
 |--|---|--|
