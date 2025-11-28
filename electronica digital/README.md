@@ -70,12 +70,12 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 ## LA PUERTA NAND.
 <img width="289" height="175" alt="image" src="https://github.com/user-attachments/assets/8c3b8a79-8aa3-4152-9e95-bd4200ab3af0" />
 
-|A  B  S|
-|-------|
-|0  0  1|
-|0  1  1|
-|1  0  1|
-|1  1  0|
+|A | B | S|
+|--|---|--|
+|0 | 0|  1|
+|0 | 1 | 1|
+|1 | 0 | 1|
+|1 | 1 | 0|
 
 # LA TABLA DE VERDAD.
 
