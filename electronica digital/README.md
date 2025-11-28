@@ -27,23 +27,23 @@ La funcion de esta puerta es que la salida vale 0 cuando las dos entradas valen 
 ## LA PUERTA AND.
 <img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/e8c807b2-f084-4232-9193-bb5f1a94e4fb" />
 
-|A  B  S|
-|-------|
-|0  0  0|
-|0  1  0|
-|1  0  0|
-|1  1  0|
+|A | B | S|
+|--|---|--|
+|0 | 0 | 0|
+|0 | 1 | 0|
+|1 | 0 | 0|
+|1 | 1 | 0|
 
 ## La OR.
 
 <img width="230" height="124" alt="image" src="https://github.com/user-attachments/assets/030201f1-c213-404e-98cd-d07a0730fc5e" />
 
-|A  B  S|
-|-------|
-|0  0  0|
-|0  1  0|
-|1  0  1|
-|1  1  1|
+|A | B | S|
+|--|---|--|
+|0 | 0 | 0|
+|0 | 1 | 0|
+|1 | 0 | 1|
+|1 | 1 | 1|
 
 ## LA PUERTA XOR.
 
