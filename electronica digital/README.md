@@ -119,5 +119,4 @@ El Álgebra de Boole trata de:
 
 # MONTAJE DE CIRCUITOS POR GRUPOS
 
-
-
+<img width="1366" height="544" alt="Smashing Sango-Lahdi" src="https://github.com/user-attachments/assets/933442d4-0f00-407b-aaa9-f84f5b553af6" />
