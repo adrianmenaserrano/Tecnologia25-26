@@ -118,6 +118,8 @@ El Álgebra de Boole trata de:
 
 <img width="1366" height="544" alt="Smashing Sango-Lahdi" src="https://github.com/user-attachments/assets/933442d4-0f00-407b-aaa9-f84f5b553af6" />
 
+Este circuito lo que hace es que al iniciarse tendras que activar uno de los dos botones para que o se encienda o se apague el rele tambien tendremos que usar una fotorresistencia,unas resistencias un diodo y tres puertas logicas las cuales nos an salido alazar.
+
 
 
 | 1 | 2 | 3 |
