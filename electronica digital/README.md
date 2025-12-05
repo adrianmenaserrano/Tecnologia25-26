@@ -127,4 +127,4 @@ Este circuito lo que hace es que al iniciarse tendras que activar uno de los dos
 | ![58159](https://github.com/user-attachments/assets/1b27a134-602c-4573-ac56-648957681167) | ![58157](https://github.com/user-attachments/assets/64afec35-04b7-45bc-8add-d92bf7adfa31) | ![58158](https://github.com/user-attachments/assets/f915f145-cd5e-496e-a241-1178afbabe35) |
 
 
-
+Y asi acabaria terminando nuestro circuito 
