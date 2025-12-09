@@ -147,5 +147,4 @@ Y asi acabaria terminando nuestro circuito
 |1|1|0|0|
 |1|1|1|0|
 
-Lo que hay que hacer es solo fijarse en la primera linea de la tabla porque si el primer numero es cero todo el resultado va ha ser uno
-y por el contrario si en la primera tabla hay un uno el resultado va a ser cero.
+Lo que hay que hacer es solo fijarse en la primera linea de la tabla porque si el primer número es cero todo el resultado va ha ser uno exceptuando la primera parte de la tabla. Por el contrario si en la primera tabla hay un uno el resultado va a ser cero.
