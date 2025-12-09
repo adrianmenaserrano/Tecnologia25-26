@@ -134,3 +134,15 @@ Este circuito lo que hace es que al iniciarse tendras que activar uno de los dos
 
 
 Y asi acabaria terminando nuestro circuito 
+
+# TABLA DE VALORES
+|a|b|c|s|
+|-|-|-|-|
+|0|0|0|0|
+|0|0|1|1|
+|0|1|0|1|
+|0|1|1|1|
+|1|0|0|0|
+|1|0|1|0|
+|1|1|0|0|
+|1|1|1|0|
