@@ -1,4 +1,4 @@
-# TIPOS DE PUERTAS ANALOGICAS:
+# TIPOS DE PUERTAS LOGICAS:
 ## SUS SIMBOLOS Y SUS EXPLICACIONES CON TABLA.
 ## LA PUERTA NOT.
 La funcion de esta puerta es que es inversa osea que si entra un número uno saldra un número cero y si sale un numero 0 entra un número 1.
@@ -124,18 +124,15 @@ Lo que hace este trabajo es que al iniciarse uno de los dos diodos LED estara en
 
 <img width="1366" height="544" alt="Smashing Sango-Lahdi" src="https://github.com/user-attachments/assets/933442d4-0f00-407b-aaa9-f84f5b553af6" />
 
-Este circuito lo que hace es que al iniciarse tendras que activar uno de los dos botones para que o se encienda o se apague el rele tambien tendremos que usar una fotorresistencia,unas resistencias, un diodo y tres puertas logicas las cuales nos an salido alazar.
-
+Este circuito  se compone de tres puertas logicas, 4 resistencias, un transistor, un réle, una fotorresistencia, dos botones y un diodo y lo que hace es: cuando el fotorresistencia le llega la iluminación suficiente, se acciona los dos botones  y el diodo permite la conexion cuales pasa por las 3 puertas lógicas hacia el transistor, el transistor llama al réle para accionarse y activandose concluyendo el circuito
 
 
 | 1 | 2 | 3 |
 | - | - | - |
 | ![58159](https://github.com/user-attachments/assets/1b27a134-602c-4573-ac56-648957681167) | ![58157](https://github.com/user-attachments/assets/64afec35-04b7-45bc-8add-d92bf7adfa31) | ![58158](https://github.com/user-attachments/assets/f915f145-cd5e-496e-a241-1178afbabe35) |
-
-
-Y asi acabaria terminando nuestro circuito 
-
-# TABLA DE VALORES
+ 
+Estas son las imagenes de como quedaria el circuito  echo ha mano.
+# TABLA DE VERDAD
 |a|b|c|s|
 |-|-|-|-|
 |0|0|0|0|
