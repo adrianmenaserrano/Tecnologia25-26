@@ -114,11 +114,6 @@ El Álgebra de Boole trata de:
 
 5🔹 Base matemática de la tecnología moderna
 
-# TRABAJO SOLITARIO LUCES INTERMITENTES
-
-<img width="1366" height="544" alt="Epic Krunk-Elzing" src="https://github.com/user-attachments/assets/44e71bee-5bf4-43e6-8212-0811c1115ddc" />
-
-Lo que hace este trabajo es que al iniciarse uno de los dos diodos LED estara encendido y el otro apagado pero si pulsar el botón el otro diodo LED se encendera y el otro se apagara lentamente y asi en bucle.
 
 # MONTAJE DE CIRCUITOS POR GRUPOS
 
