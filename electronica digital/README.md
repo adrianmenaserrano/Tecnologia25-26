@@ -1,5 +1,5 @@
-# TIPOS DE PUERTAS LOGICAS:
-## SUS SIMBOLOS Y SUS EXPLICACIONES CON TABLA.
+# TIPOS DE PUERTAS LÓGICAS:
+## SUS SÍMBOLOS Y SUS EXPLICACIONES CON TABLA.
 ## LA PUERTA NOT.
 La funcion de esta puerta es que es inversa osea que si entra un número uno saldra un número cero y si sale un numero 0 entra un número 1.
 
