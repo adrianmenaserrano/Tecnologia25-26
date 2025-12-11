@@ -126,7 +126,7 @@ Este circuito  se compone de tres puertas logicas, 4 resistencias, un transistor
 | - | - | - |
 | ![58159](https://github.com/user-attachments/assets/1b27a134-602c-4573-ac56-648957681167) | ![58157](https://github.com/user-attachments/assets/64afec35-04b7-45bc-8add-d92bf7adfa31) | ![58158](https://github.com/user-attachments/assets/f915f145-cd5e-496e-a241-1178afbabe35) |
  
-Estas son las imagenes de como quedaria el circuito  echo ha mano.
+Estas son las imagenes de como quedaria el circuito hecho ha mano.
 # TABLA DE VERDAD
 |a|b|c|s|
 |-|-|-|-|
