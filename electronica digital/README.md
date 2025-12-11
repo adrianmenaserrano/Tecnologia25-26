@@ -119,7 +119,7 @@ El Álgebra de Boole trata de:
 
 <img width="1366" height="544" alt="Smashing Sango-Lahdi" src="https://github.com/user-attachments/assets/933442d4-0f00-407b-aaa9-f84f5b553af6" />
 
-Este circuito  se compone de tres puertas logicas, 4 resistencias, un transistor, un réle, una fotorresistencia, dos botones y un diodo y lo que hace es: cuando el fotorresistencia le llega la iluminación suficiente, se acciona los dos botones  y el diodo permite la conexion cuales pasa por las 3 puertas lógicas hacia el transistor, el transistor llama al réle para accionarse y activandose concluyendo el circuito
+Este circuito  se compone de tres puertas logicas, 4 resistencias, un transistor, un réle, una fotorresistencia, dos botones y un diodo y lo que hace es: Lo que hace es que la fotorressistencia dependiendo de la iluminacion que tenga y de que boton actives vas a hacer que el relé se active mediante el transitor.
 
 
 | 1 | 2 | 3 |
