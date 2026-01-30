@@ -25,3 +25,41 @@ La tercera entrada seria ir directamente hacia la seccion de dos cuatro que pasa
 La cuarta entrada seria con su principal entrada de aire que sube por el conducto donde habria dos disposiciones en este caso el aire pasara el por el conducto hacia la seccion de las valvulas de selectura pasa por el siguiente conducto que llega ha la seccion de dos cuatro y alfinal pasaria por el lado derecho del el vastago haciendo que la plataforma elevadora baje.
 
 La quinta entra  empezaria entrado aire por el conducto lleguando a las dos disposiciones que luego subiria por el conducto llegando a la seccion de las valvulas de selectura.Despues pasaria por el conducto llegando a la seccion de dos cuatro que pasaria y acabaria llendo por la derecha haciendo que bajela la plataforma elevadora.
+
+# EL SENSOR PIR.
+# CODIGO DEL SENSOR PIR.
+int LED6 = 6;
+int PIR = 7;
+int lecturaPIR;
+
+void setup() {
+Serial.begin (9600);
+pinMode (LED6, OUTPUT);
+pinMode (PIR, INPUT);
+
+}
+
+void loop() {
+lecturaPIR=digitalRead(PIR);
+if(lecturaPIR==HIGH){
+
+digitalWrite(LED6, HIGH);
+
+Serial.println("Movimiento detectado");
+
+}
+
+if(lecturaPIR==LOW){
+digitalWrite(LED6, LOW);
+Serial.println("Movimiento no detectado");
+
+}
+
+delay(100);
+
+}
+## EXPLICACION DEL CODIGO
+Lo que hace el codigo es que al iniciarse el sensor se activara haciendo que el diodo LED se encienda. Una vez que se encienda el sensor PIR marcara que no hay nadie(si nadie esta dentro de su rango de vista) si en ese rango detecta un movimiento de alguien en la sala pondra en el monitor series "movimiento detectado" y por el contrario si no hay nadie en su rango de vista pondra que"no hay nadie en la sala".
+
+Paara ello hemos empezado poniendo los pines respectivos que sonlos pines 6 y 7 con su respectiva lectura del pir.Una vez puesto los pines toca
+## VIDEO DE REPRESENTACION
