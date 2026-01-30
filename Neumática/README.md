@@ -63,4 +63,4 @@ Lo que hace el codigo es que al iniciarse el sensor se activara haciendo que el 
 
 Paara ello hemos empezado poniendo los pines respectivos que sonlos pines 6 y 7 con su respectiva lectura del pir.Una vez puesto los pines toca
 ## VIDEO DE REPRESENTACION
-[![](https://img.youtube.com/vi/watch?v=dypxWQvsMdU/0.jpg)](https://www.youtube.com/watch?v=dypxWQvsMdU)
+[![](https://img.youtube.com/vi/dypxWQvsMdU/0.jpg)](https://www.youtube.com/watch?v=dypxWQvsMdU)
