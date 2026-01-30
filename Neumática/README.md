@@ -28,36 +28,8 @@ La quinta entra  empezaria entrado aire por el conducto lleguando a las dos disp
 
 # EL SENSOR PIR.
 # CODIGO DEL SENSOR PIR.
-int LED6 = 6;
-int PIR = 7;
-int lecturaPIR;
+<img width="1371" height="671" alt="Screenshot 2026-01-30 091234" src="https://github.com/user-attachments/assets/abef8640-c858-4348-874e-59ac835e7497" />
 
-void setup() {
-Serial.begin (9600);
-pinMode (LED6, OUTPUT);
-pinMode (PIR, INPUT);
-
-}
-
-void loop() {
-lecturaPIR=digitalRead(PIR);
-if(lecturaPIR==HIGH){
-
-digitalWrite(LED6, HIGH);
-
-Serial.println("Movimiento detectado");
-
-}
-
-if(lecturaPIR==LOW){
-digitalWrite(LED6, LOW);
-Serial.println("Movimiento no detectado");
-
-}
-
-delay(100);
-
-}
 ## EXPLICACION DEL CODIGO
 Lo que hace el codigo es que al iniciarse el sensor se activara haciendo que el diodo LED se encienda. Una vez que se encienda el sensor PIR marcara que no hay nadie(si nadie esta dentro de su rango de vista) si en ese rango detecta un movimiento de alguien en la sala pondra en el monitor series "movimiento detectado" y por el contrario si no hay nadie en su rango de vista pondra que"no hay nadie en la sala".
 
