@@ -61,6 +61,6 @@ delay(100);
 ## EXPLICACION DEL CODIGO
 Lo que hace el codigo es que al iniciarse el sensor se activara haciendo que el diodo LED se encienda. Una vez que se encienda el sensor PIR marcara que no hay nadie(si nadie esta dentro de su rango de vista) si en ese rango detecta un movimiento de alguien en la sala pondra en el monitor series "movimiento detectado" y por el contrario si no hay nadie en su rango de vista pondra que"no hay nadie en la sala".
 
-Paara ello hemos empezado poniendo los pines respectivos que sonlos pines 6 y 7 con su respectiva lectura del pir.Una vez puesto los pines toca
+Paara ello hemos empezado poniendo los pines respectivos que sonlos pines 6 y 7 con su respectiva lectura del pir.Una vez puesto los pines toca hacer el void setup que dentro estaria el serial.begin(9600) que es la velocidad de descarga en baudios con el pin 6 de entrada y el pir de salida. Dentro de el voidloop es la que te va ha dar la lectura constante de el sensor PIR. Dentro del el loop tambien esta el if que es una variable para hacer una cosa u otra que en este caso te va a decir que si el LED6 esta en HIGH la lecturadelpir va ha estar en HIGH haciendo que detecte movimiento y si el LED6 esta en LOW la lecturadelpir va ha estar en LOW haciendo que no detecte movimiento.
 ## VIDEO DE REPRESENTACION
 [![](https://img.youtube.com/vi/dypxWQvsMdU/0.jpg)](https://www.youtube.com/watch?v=dypxWQvsMdU)
