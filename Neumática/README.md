@@ -45,5 +45,6 @@ Paara ello hemos empezado poniendo los pines respectivos que sonlos pines 6 y 7 
 Lo que hace el codigo es que gracias al Monitor series el ldr sube o baja la intensidad a medida que haya más luz o menos luz para ello deberiamos de usar sus respectivas variables y su bucle que l oque hace es que marque constantemente la intensidad de iluminacion que tiene el ldr.
 Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje por que no supimos por donde empezar pero alfinal con la cordinacion del grupo acabamos encontrando solucionnes a los problemas que teniamos anteriormente
 ## VIDEO REPRESENTATIVO
+
 [![](https://img.youtube.com/vi/Ui3pkOT5Y/0.jpg)](https://www.youtube.com/watch?v=Ui3pkOT5Y)
-Ui3pkOT5Y
+
