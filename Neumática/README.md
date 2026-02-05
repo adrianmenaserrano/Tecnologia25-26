@@ -46,5 +46,5 @@ Lo que hace el codigo es que gracias al Monitor series el ldr sube o baja la int
 Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje por que no supimos por donde empezar pero alfinal con la cordinacion del grupo acabamos encontrando solucionnes a los problemas que teniamos anteriormente
 ## VIDEO REPRESENTATIVO
 
-[![](https://img.youtube.com/vi/Ui3pkOT5Y/0.jpg)](https://www.youtube.com/watch?v=Ui3pkOT5Y)
+[![](https://img.youtube.com/vi/m-Ui3pkOT5Y/0.jpg)](https://www.youtube.com/watch?v=m-Ui3pkOT5Y)
 
