@@ -11,6 +11,7 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 [![](https://img.youtube.com/vi/m-Ui3pkOT5Y/0.jpg)](https://www.youtube.com/watch?v=m-Ui3pkOT5Y)
 
 ## OBJETOS QUE HEMOS UTILIZADO
+
 -1 LDR
 
 -4 CABLES
