@@ -12,8 +12,11 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 
 ## OBJETOS QUE HEMOS UTILIZADO
 
--1 LDR
+- 1 LDR
 
--2 CABLES
+- 2 CABLES
 
--1 RESISTENCIA
+- 1 RESISTENCIA
+
+# SENSOR DE LUZ
+## CODIGO DEL SENSOR DE LUZ
