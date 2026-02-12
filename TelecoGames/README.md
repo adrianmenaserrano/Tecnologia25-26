@@ -14,6 +14,6 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 
 -1 LDR
 
--4 CABLES
+-2 CABLES
 
 -1 RESISTENCIA
