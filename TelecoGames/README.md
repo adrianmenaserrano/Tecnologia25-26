@@ -1,6 +1,33 @@
 ## CANTIDAD DE LUZ CON LA LDR
 ## CODIGO DEL LDR
-<img width="1601" height="561" alt="Screenshot 2026-02-03 085901" src="https://github.com/user-attachments/assets/280ef9e3-b36b-4c3a-929d-91943ba1fbff" />
+int LED6 = 6; // el pin 6
+int PIR = 7; // el pin 7, por donde entra los datos de el sensor PIR
+int lecturaPIR; // variable donde se guardan los datos de la lectura del PIR
+
+void setup() { // se encarga de la configuracion inicial, se ejecuta solo una vez al inicio
+Serial.begin (9600); // velocidad de descarga de información baudios
+pinMode (LED6, OUTPUT); // pin 6 de salida
+pinMode (PIR, INPUT); // pin 7 de entrada
+
+}
+
+void loop() { // hace que lo que se halle dentro se ejecuta infinitamente mientras la placa este encendida
+
+lecturaPIR=digitalRead(PIR); /* se hace una lectura del PIR y se le da el valor a la variable 'lecturaPIR'; HIGH(detectado) y 
+                                LOW(no detectado) */
+
+if(lecturaPIR==HIGH){ // "si la lectura de PIR = HIGH(detectado) entonces..."
+digitalWrite(LED6, HIGH); // da corriente al pin 6 para encender el led
+Serial.println("Movimiento detectado"); // mostrar en el monitor serie "movimiento detectado"
+}
+if(lecturaPIR==LOW){ // "si la lectura de PIR = LOW(no detectado) entonces..."
+digitalWrite(LED6, LOW); // le quita la corriente al pin 6 para apagsr el led
+Serial.println("Movimiento no detectado"); // mostrar en el monitor serie "movimiento no detectado"
+}
+delay(100); // esperar 0.1 segundos antes de repetir el void loop
+}
+ 
+
 
 ## EXPLICACION DEL CODIGO
 Lo que hace el codigo es que gracias al Monitor series el ldr sube o baja la intensidad a medida que haya más luz o menos luz para ello deberiamos de usar sus respectivas variables y su bucle que l oque hace es que marque constantemente la intensidad de iluminacion que tiene el ldr.
