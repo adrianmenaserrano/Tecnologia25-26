@@ -55,4 +55,8 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 - 1 RESISTENCIA
 
 # SENSOR DE LUZ
-## CODIGO DEL SENSOR DE LUZ
+## CODIGO DEL SENSOR DE PRESION
+
+
+## VIDEO DEL SENSOR DE PRESION
+[![](https://img.youtube.com/vi/nafKf1urKBM/0.jpg).].(https://www.youtube.com/watch?v=nafKf1urKBM).
