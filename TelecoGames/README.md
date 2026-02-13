@@ -81,6 +81,6 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9412272a-ee16-42e0-b967-00c9b6d7192c" />
 
 ## VIDEO DEL SENSOR DE GAS
-[![](https://img.youtube.com/vixSIciQBGbRE/0.jpg)](https://www.youtube.com/watch?v=xSIciQBGbRE)
+[![](https://img.youtube.com/vi/xSIciQBGbRE/0.jpg)](https://www.youtube.com/watch?v=xSIciQBGbRE)
 
 
