@@ -56,7 +56,10 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 
 # SENSOR DE LUZ
 ## CODIGO DEL SENSOR DE PRESION
+<img width="1303" height="526" alt="Screenshot 2026-02-12 111343" src="https://github.com/user-attachments/assets/bbb4e979-e21c-4bbb-b20e-d415fdb87100" />
 
 
 ## VIDEO DEL SENSOR DE PRESION
 [![](https://img.youtube.com/vi/nafKf1urKBM/0.jpg)](https://www.youtube.com/watch?v=nafKf1urKBM).
+
+
