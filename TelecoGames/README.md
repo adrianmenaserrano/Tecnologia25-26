@@ -62,4 +62,8 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 ## VIDEO DEL SENSOR DE PRESION
 [![](https://img.youtube.com/vi/nafKf1urKBM/0.jpg)](https://www.youtube.com/watch?v=nafKf1urKBM).
 
-
+## OBJETOS QUE HEMOS UTILIZADO
+- 5 CABLES
+- 1 RESISTENCIA
+- 1 PLACA ARDUINO
+- 1 DETECTOR DE PRESION
