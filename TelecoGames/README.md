@@ -72,17 +72,15 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 ## CODIGO DEL SENSOR DE SONIDO
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/2202bdc4-20f1-4288-8af7-ca7dc6c5bda5" />
 
-
-# SENSOR DE GAS
 ## VIDEO DEL SENSOR DE SONIDO
 [![](https://img.youtube.com/vi/E7mlcuRCIkQ/0.jpg)](https://www.youtube.com/watch?v=E7mlcuRCIkQ).
 
 
-
+# SENSOR DE GAS
 ## CODIGO DEL SENSOR DE GAS
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9412272a-ee16-42e0-b967-00c9b6d7192c" />
 
 ## VIDEO DEL SENSOR DE GAS
-[![](https://img.youtube.com/vixSIciQBGbRE/0.jpg)](https://www.youtube.com/watch?v=xSIciQBGbRE).
+[![](https://img.youtube.com/vixSIciQBGbRE/0.jpg)](https://www.youtube.com/watch?v=xSIciQBGbRE)
 
 
