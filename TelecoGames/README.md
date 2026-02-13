@@ -97,4 +97,4 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/2202bdc4-20f1-4288-8af7-ca7dc6c5bda5" />
 
 ## VIDEO DEL SENSOR DE HUMEDAD
-[![](https://img.youtube.com/vi/yI6TIqMYskk0.jpg)](https://www.youtube.com/watch?v=yI6TIqMYskk).
+[![](https://img.youtube.com/vi/yI6TIqMYskk/0.jpg)](https://www.youtube.com/watch?v=yI6TIqMYskk).
