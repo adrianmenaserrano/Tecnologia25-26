@@ -99,7 +99,7 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 ## VIDEO DEL SENSOR DE HUMEDAD
 [![](https://img.youtube.com/vi/yI6TIqMYskk/0.jpg)](https://www.youtube.com/watch?v=yI6TIqMYskk).
 
-## ## OBJETOS QUE HEMOS UTILIZADO
+## OBJETOS QUE HEMOS UTILIZADO
 - 4 cables
 - 1 placa arduino
 - 1 sensor de humedad
