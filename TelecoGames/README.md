@@ -11,6 +11,8 @@
 - 1 placa arduino
 - 1 resistencia
 
+## OBJETIVO
+El objetivo del sensor PIR es hacer un detector de movimiento en una sala. Si alguien se esta moviendo pondra en el monitorseries que alguien se esta moviendo y si nadie esta en la sala el monitorseries pondra que nadie se esta moviendo
   - --------------------------------------------------------------------------------------------------------------------------------------
 
 # SENSOR DE LUZ
