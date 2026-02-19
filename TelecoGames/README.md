@@ -1,3 +1,11 @@
+# SENSOR PIR.
+## FOTO DEL CODIGO
+<img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d-408d17e791a7" />
+
+## VIDEO DE REPRESAENTACION.
+[![](https://img.youtube.com/vi/dypxWQvsMdU/0.jpg)](https://www.youtube.com/watch?v=dypxWQvsMdU)
+
+dypxWQvsMdU
 # SENSOR DE LUZ
 ## CANTIDAD DE LUZ CON LA LDR
 ## CODIGO DEL LDR
@@ -44,7 +52,6 @@ Lo que hace el codigo es que gracias al Monitor series el ldr sube o baja la int
 Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje por que no supimos por donde empezar pero alfinal con la cordinacion del grupo acabamos encontrando solucionnes a los problemas que teniamos anteriormente
 
 ## VIDEO REPRESENTATIVO
-
 [![](https://img.youtube.com/vi/m-Ui3pkOT5Y/0.jpg)](https://www.youtube.com/watch?v=m-Ui3pkOT5Y)
 
 ## OBJETOS QUE HEMOS UTILIZADO
