@@ -55,6 +55,11 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 - 1 RESISTENCIA
 
 # SENSOR DE LUZ
+## FOTO DEL CODIGO DEL SENSOR DE LUZ.
+<img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d-408d17e791a7" />
+
+## EXPLICACION DEL CODIGO
+Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de rayos ultravioleta que hay de pendiendo si detecta más rayos ultravioleta el monitorseries detectara más o si no detecta tantos rayos ultravioleta como antes el monitorseries detectara menos.
 ## CODIGO DEL SENSOR DE PRESION
 <img width="1303" height="526" alt="Screenshot 2026-02-12 111343" src="https://github.com/user-attachments/assets/bbb4e979-e21c-4bbb-b20e-d415fdb87100" />
 
