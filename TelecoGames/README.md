@@ -5,7 +5,11 @@
 ## VIDEO DE REPRESAENTACION.
 [![](https://img.youtube.com/vi/dypxWQvsMdU/0.jpg)](https://www.youtube.com/watch?v=dypxWQvsMdU)
 
-dypxWQvsMdU
+## OBJETOS QUE HEMOS UTILIZADO
+- 1 Sensor pir
+- 3 cables
+- 1 placa arduino
+- 1 resistencia
 # SENSOR DE LUZ
 ## CANTIDAD DE LUZ CON LA LDR
 ## CODIGO DEL LDR
