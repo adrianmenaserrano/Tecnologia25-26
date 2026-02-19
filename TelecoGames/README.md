@@ -58,6 +58,8 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 ## FOTO DEL CODIGO DEL SENSOR DE LUZ.
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d-408d17e791a7" />
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 # SENSOR DE PRESION
 ## EXPLICACION DEL CODIGO
 Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de rayos ultravioleta que hay de pendiendo si detecta más rayos ultravioleta el monitorseries detectara más o si no detecta tantos rayos ultravioleta como antes el monitorseries detectara menos.
@@ -74,6 +76,8 @@ Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de 
 - 1 PLACA ARDUINO
 - 1 DETECTOR DE PRESION
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 # SENSOR DE SONIDO
 ## CODIGO DEL SENSOR DE SONIDO
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/2202bdc4-20f1-4288-8af7-ca7dc6c5bda5" />
@@ -85,7 +89,9 @@ Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de 
 - 4 cables
 - 1 placa arduino
 - 1 sensor de sonido
-  
+
+  ----------------------------------------------------------------------------------------------------------------------------------------
+
 # SENSOR DE GAS
 ## CODIGO DEL SENSOR DE GAS
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9412272a-ee16-42e0-b967-00c9b6d7192c" />
@@ -97,6 +103,8 @@ Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de 
 - 4 cables
 - 1 placa arduino
 - 1 sensor de gas
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
  # SENSOR DE HUMEDAD
  ## CODIGO DEL SENSOR DE HUMEDAD
