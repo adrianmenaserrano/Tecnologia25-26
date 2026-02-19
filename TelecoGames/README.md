@@ -10,6 +10,9 @@
 - 3 cables
 - 1 placa arduino
 - 1 resistencia
+
+  - --------------------------------------------------------------------------------------------------------------------------------------
+
 # SENSOR DE LUZ
 ## CANTIDAD DE LUZ CON LA LDR
 ## CODIGO DEL LDR
