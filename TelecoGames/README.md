@@ -1,3 +1,4 @@
+# SENSOR DE LUZ
 ## CANTIDAD DE LUZ CON LA LDR
 ## CODIGO DEL LDR
 int LED6 = 6; // el pin 6
@@ -54,7 +55,6 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 
 - 1 RESISTENCIA
 
-# SENSOR DE LUZ
 ## FOTO DEL CODIGO DEL SENSOR DE LUZ.
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d-408d17e791a7" />
 
