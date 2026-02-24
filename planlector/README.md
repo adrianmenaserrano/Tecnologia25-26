@@ -21,4 +21,4 @@ Arduino puede usarse para controlar sistemas de riego automatizado. Utilizando s
 ## ¿Cómo podemos incorporar la placa de Arduino para controlar los datos de nuestro prototipo de invernadero en el aula?
 Arduino puede usarse para crear sistemas de monitoreo agrícola. Sensores de humedad del suelo, temperatura, humedad atmosférica, y otros parámetros pueden conectarse a placas Arduino. Estos sensores proporcionan datos en tiempo real que permiten a los agricultores tomar decisiones informadas sobre el riego, la fertilización y otros aspectos del cultivo.
 ## ¿De qué manera lo puedes hacer?
-CON invernaderos inteligentes,sistemas de alimentación automática,comunicación y monitoreo remoto y control de plagas
+Con: invernaderos inteligentes,sistemas de alimentación automática,comunicación y monitoreo remoto y control de plagas
