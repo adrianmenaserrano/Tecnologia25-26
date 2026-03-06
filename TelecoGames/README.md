@@ -133,3 +133,10 @@ Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de 
 - 4 cables
 - 1 placa arduino
 - 1 sensor de humedad
+
+# PROJECTO FINAL: EL INVERNADERO
+En este projecto hemos echo un invernadero con piezas echas en tinkercad con el objetivo de hacer como en un puzle hacer que las piezas se puedan unir entre si. Para ello nos tuvimos que repartirnos que figura hiba ha hacer cada uno pero que todos tengan la misma medida. El suelo que hemos escogido es un suelo normal para que no afecte a la hora de poner las vigas. Mi parte fue hacer unas vigas que tengan 2 entradas para poder meter los salientes y en el otro extremo de la pieza hacer un saliente.
+
+## FOTO DE REPRESENTACION DE MI FIGURA
+<img width="605" height="232" alt="image" src="https://github.com/user-attachments/assets/b19b064a-1b18-47ca-b9ff-94f9d0459f05" />
+
