@@ -139,4 +139,6 @@ En este projecto hemos echo un invernadero con piezas echas en tinkercad con el 
 
 ## FOTO DE REPRESENTACION DE MI FIGURA
 <img width="605" height="232" alt="image" src="https://github.com/user-attachments/assets/b19b064a-1b18-47ca-b9ff-94f9d0459f05" />
+## MEDIDAS DE LAS FIGURAS
+Las figuras ue hemos echo son tanto de largo como de hancho de 22 cm y de alto unos 2 cm como maximo
 
