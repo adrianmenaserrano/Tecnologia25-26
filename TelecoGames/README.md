@@ -153,3 +153,5 @@ Para ello lo que hemos echo a sido hacer un suelo de 150 cm x 150cm. Luego coloc
 
 ## RESUELTADO FINAL DEL PROJECTO DEL INVERNADERO EN TINKERKCAD
 <img width="813" height="379" alt="image" src="https://github.com/user-attachments/assets/44d31f94-eb76-4cda-b6eb-67ba0ee87fea" />
+
+El projecto final del invernadero seria que quede más o menos asi pero con la diferencia de que en este caso hay que hacerlo funcional para que pueda detectar:humeda,calor,cuando necesitan agua,etc
