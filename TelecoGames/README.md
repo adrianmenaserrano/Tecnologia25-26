@@ -146,9 +146,9 @@ En este projecto hemos echo un invernadero con piezas echas en tinkercad con el 
 Las figuras ue hemos echo son tanto de largo como de hancho de 15 cm y de alto unos 5 cm.
 
 ## FOTOS DEL SUELO DEL 
-|Mi diseño|El producto final del suelo|
-|-------------------------------------------------------------------------------------------------------|
-|<img width="537" height="444" alt="Captura de pantalla 2026-03-13 082611" src="https://github.com/user-|1attachments/assets/474cfe4b-bce5-4bfc-8889-f35896e3a6d5" />|<img width="1273" height="463" alt="image" src="https://github.com/user-attachments/assets/613d4618-2466-4e4e-91fb-01521b507ae5" />|
+
+
+<img width="537" height="444" alt="Captura de pantalla 2026-03-13 082611" src="https://github.com/user-1attachments/assets/474cfe4b-bce5-4bfc-8889-f35896e3a6d5" /><img width="1273" height="463" alt="image" src="https://github.com/user-attachments/assets/613d4618-2466-4e4e-91fb-01521b507ae5" />
 
 
 
