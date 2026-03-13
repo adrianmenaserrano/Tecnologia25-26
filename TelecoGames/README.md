@@ -137,7 +137,7 @@ Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de 
 -----------------------------------------------------------------------------------------------------------------------
 
 # PROJECTO FINAL: EL INVERNADERO
-En este projecto hemos echo un invernadero con piezas echas en tinkercad con el objetivo de hacer como en un puzle hacer que las piezas se puedan unir entre si. Para ello nos tuvimos que repartirnos que figura hiba ha hacer cada uno pero que todos tengan la misma medida. El suelo que hemos escogido es un suelo normal para que no afecte a la hora de poner las vigas. Mi parte fue hacer unas vigas que tengan 2 entradas para poder meter los salientes y en el otro extremo de la pieza hacer un saliente.
+En este projecto hemos echo un invernadero con piezas echas en tinkercad con el objetivo de hacer como en un puzzle hacer que las piezas se puedan unir entre si. Para ello nos tuvimos que repartirnos que figura hiba ha hacer cada uno pero que todos tengan la misma medida. El suelo que hemos escogido es un suelo normal para que no afecte a la hora de poner las vigas. Mi parte fue hacer unas vigas que tengan 2 entradas para poder meter los salientes y en el otro extremo de la pieza hacer un saliente para que al unirlas con otras figuras de mis compañeros se puedan unir sin problemas.Una vez que el profe imprimio las figuras las tubimos que limar para que puedan entrar.Y cuando ya terinamos de limar comprobamos si se podian meter sin problemas y alfinal si se podia. Lo ultimo que queda es unir todas las piezas para hacer la forma de un invernadero funcional.
 
 ## FOTO DE REPRESENTACION DE MI FIGURA
 <img width="605" height="232" alt="image" src="https://github.com/user-attachments/assets/b19b064a-1b18-47ca-b9ff-94f9d0459f05" />
@@ -147,5 +147,9 @@ Las figuras ue hemos echo son tanto de largo como de hancho de 15 cm y de alto u
 
 ## FOTOS DEL SUELO DEL INVERNADERO
 <img width="537" height="444" alt="Captura de pantalla 2026-03-13 082611" src="https://github.com/user-attachments/assets/474cfe4b-bce5-4bfc-8889-f35896e3a6d5" />
+
+## EXPLICACION DE COMO FUNCIONA EL SUELO
 Para ello lo que hemos echo a sido hacer un suelo de 150 cm x 150cm. Luego colocamos unas viseras de 5cm,hacia arriba y a la derecha del suelo para que quepan con las otras piezas de otros suelos.Tambien emos echo otra viseras transparentes para luego unirlas y hacer un hueco para unirlas con otros suelos como si fuese un puzzle.
 
+## RESUELTADO FINAL DEL PROJECTO DEL INVERNADERO EN TINKERKCAD
+<img width="813" height="379" alt="image" src="https://github.com/user-attachments/assets/44d31f94-eb76-4cda-b6eb-67ba0ee87fea" />
