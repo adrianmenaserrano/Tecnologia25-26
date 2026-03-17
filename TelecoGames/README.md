@@ -2,7 +2,7 @@
 ## FOTO DEL CODIGO
 <img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d-408d17e791a7" />
 
-## VIDEO DE REPRESAENTACION.
+## VIDEO DE REPRESENTACION.
 [![](https://img.youtube.com/vi/dypxWQvsMdU/0.jpg)](https://www.youtube.com/watch?v=dypxWQvsMdU)
 
 ## OBJETOS QUE HEMOS UTILIZADO
