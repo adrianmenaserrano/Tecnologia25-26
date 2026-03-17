@@ -20,9 +20,9 @@ El objetivo del sensor PIR es hacer un detector de movimiento en una sala. Si al
 ## CODIGO DEL LDR
 int LED6 = 6; // el pin 6
 
-int PIR = 7; // el pin 7, por donde entra los datos de el sensor PIR
+int LDR = 7; // el pin 7, por donde entra los datos de el sensor LDR
 
-int lecturaPIR; // variable donde se guardan los datos de la lectura del PIR
+int lecturaLDR; // variable donde se guardan los datos de la lectura del LDR
 
 void setup() { // se encarga de la configuracion inicial, se ejecuta solo una vez al inicio
 
