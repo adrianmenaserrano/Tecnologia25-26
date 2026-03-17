@@ -130,6 +130,8 @@ Lo que quisimos hacer y lo que hace este sensor es que si le ponemos un sonido f
 - 1 placa arduino
 - 1 sensor de gas
 
+  ## EL OBJETIVO
+  El objetivo con sensor de gas es que si ponemos algun tipo de gas en el sensor los valores en el MonitorSeries subiran pero por el contrario si no hay ningun tipo de gas en el sensor el los valores bajaran
 -----------------------------------------------------------------------------------------------------------------------------------------
 
  # SENSOR DE HUMEDAD
@@ -172,3 +174,5 @@ Para ello lo que hemos echo a sido hacer un suelo de 150 cm x 150cm. Luego coloc
 <img width="813" height="379" alt="image" src="https://github.com/user-attachments/assets/44d31f94-eb76-4cda-b6eb-67ba0ee87fea" />
 
 El proyecto final del invernadero seria que quede más o menos asi pero con la diferencia de que en este caso hay que hacerlo funcional para que pueda detectar:humeda,calor,cuando necesitan agua,etc pero lo más importante e que sea funcional y si las cosas salen bien trasladarlo a la vida real haciendolo igual al prototipo de tinkerkad con sus mismo sensores,con su misma forma y de la misma manera en la que nos repartimos el trabajo. Si lo llegamos ha hacer para ello pondremos en practica todo lo que hicimos con los sensores de humeda,gas,ultravioleta,etc.
+
+## FOTOGRAFIA DE COMO SE VAN IMPRIMIENDO ALGUNAS FIGURAS
