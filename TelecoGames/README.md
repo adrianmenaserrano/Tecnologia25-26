@@ -72,8 +72,9 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 - 1 RESISTENCIA
 
 ## FOTO DEL CODIGO DEL SENSOR DE LUZ.
-<img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d-
+<img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d
 408d17e791a7" />
+
 ## EL OBJETIVO
 La idea hera coger una ldr y con su respectivo codigo hacerle que si tapabas la ldr con tus manos o con un objeto para que no le pase luz los núeros que va marcando en el MonitorSeries bajen y por el contrario si no tapas la ldr con nada como la luz llega los valores que hay en el MonitorSeries suban.
 
