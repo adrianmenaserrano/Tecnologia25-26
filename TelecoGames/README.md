@@ -72,7 +72,11 @@ Su montaje fue bastante complicado porque tuvimos unos problemas con el montaje 
 - 1 RESISTENCIA
 
 ## FOTO DEL CODIGO DEL SENSOR DE LUZ.
-<img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d-408d17e791a7" />
+<img width="1303" height="526" alt="image" src="https://github.com/user-attachments/assets/9dfa64d3-aacd-4cda-8e6d-
+408d17e791a7" />
+## EL OBJETIVO
+La idea hera coger una ldr y con su respectivo codigo hacerle que si tapabas la ldr con tus manos o con un objeto para que no le pase luz los núeros que va marcando en el MonitorSeries bajen y por el contrario si no tapas la ldr con nada como la luz llega los valores que hay en el MonitorSeries suban.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -92,6 +96,9 @@ Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de 
 - 1 PLACA ARDUINO
 - 1 DETECTOR DE PRESION
 
+## EL OBJETIVO
+El sensor de presion como su nombre indica habia que hacer que si con tu dedo o con un objeto presionas en senor marcara un número elevado en el MonitorSeries haciendo referencia a la presion que lleva y por el contrario si no lo pulsas el número bajara.
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 # SENSOR DE SONIDO
@@ -106,7 +113,10 @@ Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de 
 - 1 placa arduino
 - 1 sensor de sonido
 
-  ----------------------------------------------------------------------------------------------------------------------------------------
+## EL OBJETIVO
+Lo que quisimos hacer y lo que hace este sensor es que si le ponemos un sonido fuerte al sensor lo que hara es que sus número suban mucho en el MonitorSeries y por el contrario si no hay ningun sonido a su alrededor sus números bajaran.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 # SENSOR DE GAS
 ## CODIGO DEL SENSOR DE GAS
@@ -133,6 +143,9 @@ Lo que hace este sensor es que con el monitorseries va ha marcar la cantidad de 
 - 4 cables
 - 1 placa arduino
 - 1 sensor de humedad
+
+## EL OBJETIVO
+Este ultimo sensor lo que hace es ponerlo en la tierra y dependiendo si tiene más humedad o menos los numeros apereceran en el MonitorSeries.Si tienen más humedad subirian los números y si tienen menos bajarian.
 
 -----------------------------------------------------------------------------------------------------------------------
 
