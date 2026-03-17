@@ -171,7 +171,7 @@ Para ello lo que hemos echo a sido hacer un suelo de 150 cm x 150cm. Luego coloc
 
 El proyecto final del invernadero seria que quede más o menos asi pero con la diferencia de que en este caso hay que hacerlo funcional para que pueda detectar:humeda,calor,cuando necesitan agua,etc pero lo más importante e que sea funcional y si las cosas salen bien trasladarlo a la vida real haciendolo igual al prototipo de tinkerkad con sus mismo sensores,con su misma forma y de la misma manera en la que nos repartimos el trabajo. Si lo llegamos ha hacer para ello pondremos en practica todo lo que hicimos con los sensores de humeda,gas,ultravioleta,etc.
 
-## FOTOGRAFIA DE COMO SE VAN IMPRIMIENDO ALGUNAS FIGURAS
+## FOTOGRAFIA DE COMO SE VA IMPRIMIENDO UNA FIGURA
 <img width="1139" height="641" alt="image" src="https://github.com/user-attachments/assets/3af7ca7a-2bf2-44f7-ba7c-c2555d104b80" />
 
 Por lo que se puede ver en esta imagen lo que se esta haciendo es la impresion 3D de la planta(suelo) de el invernadero en miniatura que estamos haciendo tanto en tinkercad como con ayuda de la impresora lo estamos haciendo tambien ha mano
