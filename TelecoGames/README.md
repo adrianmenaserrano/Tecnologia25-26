@@ -164,7 +164,7 @@ Las figuras ue hemos echo son tanto de largo como de hancho de 15 cm y de alto u
 <img width="1273" height="463" alt="image" src="https://github.com/user-attachments/assets/613d4618-2466-4e4e-91fb-01521b507ae5" />
 
 ## EXPLICACION DE COMO FUNCIONA EL SUELO
-Para ello lo que hemos echo a sido hacer un suelo de 150 cm x 150cm. Luego colocamos unas viseras de 5cm,hacia arriba y a la derecha del suelo para que quepan con las otras piezas de otros suelos.Tambien emos echo otra viseras transparentes para luego unirlas y hacer un hueco para unirlas con otros suelos como si fuese un puzzle.
+Para ello lo que hemos echo a sido hacer un suelo de 150 cm x 150cm. Luego colocamos unas viseras de 5cm,hacia arriba y a la derecha del suelo para que quepan con las otras piezas de otros suelos.Tambien emos hecho otra viseras transparentes para luego unirlas y hacer un hueco para unirlas con otros suelos como si fuese un puzzle.
 
 ## RESUELTADO FINAL DEL PROYECTO DEL INVERNADERO EN TINKERKCAD
 <img width="813" height="379" alt="image" src="https://github.com/user-attachments/assets/44d31f94-eb76-4cda-b6eb-67ba0ee87fea" />
