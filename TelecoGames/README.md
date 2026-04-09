@@ -177,11 +177,12 @@ El proyecto final del invernadero seria que quede más o menos asi pero con la d
 Por lo que se puede ver en esta imagen lo que se esta haciendo es la impresion 3D de la planta(suelo) de el invernadero en miniatura que estamos haciendo tanto en tinkercad como con ayuda de la impresora lo estamos haciendo tambien ha mano
 
 # FOTO  DEL INVERNADERO CON LAS BASES Y LOS PILARES PUESTOS
-![IMG_20260409_102206](https://github.com/user-attachments/assets/10753474-95ea-4aba-b1f4-28b9eaac383f)
-
+<img src="imagenestecnología/1000094531.jpg" width="200" height="400" />
 # PARTES QUE HEMOS USADO PARA HACER EL INVERNADERO FUNCIONAL
-![IMG_20260409_102253](https://github.com/user-attachments/assets/2b5ada78-de77-4c99-9253-4b7a31b1920b)
+## LA BATERIA
+<img src="imagenestecnología/1000094531.jpg" width="200" height="400" />
 esta es la parte de la bateria que lo que hace es darle funcionamiento y darle tambien vida junto a la placa de arduino para haacer que el invernadero pueda hacer multiples cosas a la vez.
-![IMG_20260409_102236](https://github.com/user-attachments/assets/369a3347-9430-478c-92a4-6d4569ce1aa0)
+## LA BOMBA DE AGUA
+<img src="imagenestecnología/1000094532.jpg" width="200" height="400" />
 Luego esta la bomba de agua esto lo que hace es hacer como un pequeño almacenamiento de agua que al conectarlo con la bateria y la placa arduino hara que el agua pase por el tubo y que el agua llegue ha las respectivas plantas.
 
