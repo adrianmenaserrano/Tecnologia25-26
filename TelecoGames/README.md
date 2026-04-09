@@ -180,11 +180,11 @@ Por lo que se puede ver en esta imagen lo que se esta haciendo es la impresion 3
 ![Foto de Adrián](https://github.com/user-attachments/assets/5a4afa70-ddb0-459c-879f-28e41b2d3028)
 # PARTES QUE HEMOS USADO PARA HACER EL INVERNADERO FUNCIONAL
 ## LA BATERIA
-![IMG_20260409_102253](https://github.com/user-attachments/assets/99d123a7-54cb-47d4-b331-7ee950b4c28f)
+<img width="1251" height="591" alt="image" src="https://github.com/user-attachments/assets/a06f2c1b-9f65-40bd-b71c-800a65f7943c" />
 
-esta es la parte de la bateria que lo que hace es darle funcionamiento y darle tambien vida junto a la placa de arduino para haacer que el invernadero pueda hacer multiples cosas a la vez.
 ## LA BOMBA DE AGUA
-![IMG_20260409_102236](https://github.com/user-attachments/assets/8432d9ee-4468-4017-aacd-81118c1fe984)
+<img width="642" height="252" alt="image" src="https://github.com/user-attachments/assets/e99e0ae8-809e-4f13-aeb9-a47dc2ba45c6" />
 
-Luego esta la bomba de agua esto lo que hace es hacer como un pequeño almacenamiento de agua que al conectarlo con la bateria y la placa arduino hara que el agua pase por el tubo y que el agua llegue ha las respectivas plantas.
+
+
 
