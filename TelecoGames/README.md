@@ -177,7 +177,8 @@ El proyecto final del invernadero seria que quede más o menos asi pero con la d
 Por lo que se puede ver en esta imagen lo que se esta haciendo es la impresion 3D de la planta(suelo) de el invernadero en miniatura que estamos haciendo tanto en tinkercad como con ayuda de la impresora lo estamos haciendo tambien ha mano
 
 # FOTO  DEL INVERNADERO CON LAS BASES Y LOS PILARES PUESTOS
-![Foto de Adrián](https://github.com/user-attachments/assets/5a4afa70-ddb0-459c-879f-28e41b2d3028)
+<img width="646" height="320" alt="image" src="https://github.com/user-attachments/assets/78a80d92-8599-45e3-aeb7-53a64c247902" />
+
 # PARTES QUE HEMOS USADO PARA HACER EL INVERNADERO FUNCIONAL
 ## LA BATERIA
 <img width="1251" height="591" alt="image" src="https://github.com/user-attachments/assets/a06f2c1b-9f65-40bd-b71c-800a65f7943c" />
