@@ -192,3 +192,6 @@ Por lo que se puede ver en esta imagen lo que se esta haciendo es la impresion 3
 Lo que hace el codigo va a ser lo siguiente: mediante el codigo te va a decir que la planta necesita agua porque va ha ver un diodo azul que se va ha encender una ve que se encienda la planta te pedira agua entoces con la ayuda de la bomba de agua le va ha bombear agua ha la planta asta que ya este llena entonces la bomba parara de bombear.
 
 Para todo esto hemos tenido que usar un relé para que nos ayude con el tiempo que tiene la bomba de agua en bombear antes de que la planta se ahogue.Luego también emos usado el sensor de humedad que lo que hara es detectar si la planta tiene en la tierra mucha agua o poca agua si tiene mucha agua no bombeara agua y si tiene poca agua bombeara más agua y asi asta que la bomba de agua se quede sin agua.
+
+## EL INVERNADERO DESDE DISTINTOS LADOS
+<img width="641" height="326" alt="image" src="https://github.com/user-attachments/assets/3ffe2d47-08d4-4fc3-9635-9df47ac16b3e" />
