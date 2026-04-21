@@ -181,7 +181,7 @@ Por lo que se puede ver en esta imagen lo que se esta haciendo es la impresion 3
 
 # PARTES QUE HEMOS USADO PARA HACER EL INVERNADERO FUNCIONAL
 ## LA BATERIA
-<img width="1251" height="591" alt="image" src="https://github.com/user-attachments/assets/a06f2c1b-9f65-40bd-b71c-800a65f7943c" />
+<img width="633" height="318" alt="image" src="https://github.com/user-attachments/assets/546fee1c-3659-46a9-930d-9efda0405f4c" />
 
 ## LA BOMBA DE AGUA
 <img width="642" height="252" alt="image" src="https://github.com/user-attachments/assets/e99e0ae8-809e-4f13-aeb9-a47dc2ba45c6" />
