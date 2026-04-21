@@ -177,7 +177,7 @@ El proyecto final del invernadero seria que quede más o menos asi pero con la d
 Por lo que se puede ver en esta imagen lo que se esta haciendo es la impresion 3D de la planta(suelo) de el invernadero en miniatura que estamos haciendo tanto en tinkercad como con ayuda de la impresora lo estamos haciendo tambien ha mano
 
 # FOTO  DEL INVERNADERO CON LAS BASES Y LOS PILARES PUESTOS
-<img width="646" height="320" alt="image" src="https://github.com/user-attachments/assets/78a80d92-8599-45e3-aeb7-53a64c247902" />
+<img width="646" height="358" alt="image" src="https://github.com/user-attachments/assets/779e0c20-7a51-4e6a-a2f4-43dc647b62cc" />
 
 # PARTES QUE HEMOS USADO PARA HACER EL INVERNADERO FUNCIONAL
 ## LA BATERIA
@@ -194,4 +194,8 @@ Lo que hace el codigo va a ser lo siguiente: mediante el codigo te va a decir qu
 Para todo esto hemos tenido que usar un relé para que nos ayude con el tiempo que tiene la bomba de agua en bombear antes de que la planta se ahogue.Luego también emos usado el sensor de humedad que lo que hara es detectar si la planta tiene en la tierra mucha agua o poca agua si tiene mucha agua no bombeara agua y si tiene poca agua bombeara más agua y asi asta que la bomba de agua se quede sin agua.
 
 ## EL INVERNADERO DESDE DISTINTOS LADOS
-<img width="641" height="326" alt="image" src="https://github.com/user-attachments/assets/3ffe2d47-08d4-4fc3-9635-9df47ac16b3e" />
+<img width="646" height="357" alt="image" src="https://github.com/user-attachments/assets/d9d51dfe-0508-4a1a-a5af-22012bca69cf" />
+
+# FOTO DE LOS SENSORES.
+<img width="462" height="334" alt="image" src="https://github.com/user-attachments/assets/b9355d9e-1d3e-44d3-9020-ed78f6b0dc5e" />
+
