@@ -184,7 +184,7 @@ Por lo que se puede ver en esta imagen lo que se esta haciendo es la impresion 3
 <img width="633" height="318" alt="image" src="https://github.com/user-attachments/assets/546fee1c-3659-46a9-930d-9efda0405f4c" />
 
 ## LA BOMBA DE AGUA
-<img width="642" height="252" alt="image" src="https://github.com/user-attachments/assets/e99e0ae8-809e-4f13-aeb9-a47dc2ba45c6" />
+<img width="662" height="374" alt="image" src="https://github.com/user-attachments/assets/7d293728-6812-4748-889d-767c5e7832f8" />
 
 ## EL CÓDIGO
 <img width="1218" height="896" alt="Captura de pantalla 2026-04-09 103125" src="https://github.com/user-attachments/assets/04a1eacd-2abe-49a3-89b2-1ccdd8ca94d9" />
