@@ -209,10 +209,12 @@ int pinsensortemperatura = A2;
 int entradatemperatura;
 float temperatura; //Datos temperatura
 
+
 // Pines salida
 int led = 5; //LED rojo
 int rele = 2; // Relé
 int ledagua=6; //LED azul
+
 
 // Variables sensor humedad
 int pinsensorhumedad = A0;
@@ -236,11 +238,14 @@ pinMode (rele, OUTPUT);
 
 }
 
+
 void loop() {
   entradaagua = analogRead(pinsensoragua);
   agua = map(entradaagua, 0, 1023, 0, 100);
+ 
   //Serial.print ("Nivel agua: ");  Serial.print(agua); Serial.println(" %");
   delay(20);
+
 
  
   entradatemperatura = analogRead(pinsensortemperatura);
@@ -248,15 +253,20 @@ void loop() {
   //Serial.print("Temperatura: "); Serial.print (temperatura); Serial.println(" ºC");
   delay(20);
 
+
  
   entradahumedad = analogRead(pinsensorhumedad);
   humedad=map(entradahumedad, 0, 1023, 0, 100);
+
+
   //Serial.print("Valor humedad relativa: "); Serial.print (humedad); Serial.println(" %");
   delay (20);
 
- /*A TENER EN CUENTA:
+
+*A TENER EN CUENTA*:
     - La programación del relé está funcionado al revés para hacer que funcione correctamente.
- */
+ 
+
 
  //Nivel de agua bajo, paramos todo y conectamos LED azul
   if (agua <= 30){
@@ -266,11 +276,18 @@ void loop() {
     digitalWrite(rele, HIGH);
    
   }
+  
+  
   //Nivel de agua óptimo, paramos LED azul y vemos si debemos regar
+  
   if (agua > 30){
     digitalWrite(ledagua, LOW);
     Serial.write("b");
+    
+   
     //Si la humedad es baja, podemos regar pero....  
+   
+    
     if (humedad <= 50){
         //Si la temperatura es alta paramos el relé y activamos el LED rojo de advertencia
         if (temperatura > 50){
@@ -278,14 +295,22 @@ void loop() {
           Serial.write("c");
           digitalWrite (rele, HIGH);
         }
+      
         //Si la temperatura es baja entonces regamos (LED rojo apagado y activamos el relé)
+      
+        
         if (temperatura < 50){
           digitalWrite (led, LOW);
           Serial.write("d");
           digitalWrite (rele, LOW);
+      
         }
     }
+ 
+    
     //Si la humedad es alta no regamos ni damos señal de advertencia
+   
+    
     if (humedad > 50){
       digitalWrite (led, LOW);
       Serial.write("d");
@@ -305,13 +330,20 @@ int ledagua = 5;
 int ledtemperatura = 6;
 
 void setup() {
+
+  
   // put your setup code here, to run once:
+ 
+  
   Serial.begin(9600);
   pinMode(ledagua,OUTPUT);
   pinMode(ledtemperatura,OUTPUT);
 }
 void loop() {
+ 
   // put your main code here, to run repeatedly:
+
+  
   if (Serial.available()){
       char dato = Serial.read();
       if (dato=="a"){
@@ -320,10 +352,12 @@ void loop() {
      
       if (dato=="b"){
         digitalWrite(ledagua, LOW);
+   
       }
      
       if (dato=="c"){
         digitalWrite(ledtemperatura, HIGH);
+  
       }
      
       if (dato=="d"){
