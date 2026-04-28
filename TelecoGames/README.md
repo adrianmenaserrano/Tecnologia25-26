@@ -199,3 +199,5 @@ Para todo esto hemos tenido que usar un relé para que nos ayude con el tiempo q
 # FOTO DE LOS SENSORES.
 <img width="462" height="334" alt="image" src="https://github.com/user-attachments/assets/b9355d9e-1d3e-44d3-9020-ed78f6b0dc5e" />
 
+## VIDEO DE REPRESENTACION DE COMO QUEDARIA.
+[![](https://img.youtube.com/vi/rl1b3eS5mnE.jpg)](https://www.youtube.com/watch?v=rl1b3eS5mnE)
