@@ -199,5 +199,136 @@ Para todo esto hemos tenido que usar un relé para que nos ayude con el tiempo q
 # FOTO DE LOS SENSORES.
 <img width="462" height="334" alt="image" src="https://github.com/user-attachments/assets/b9355d9e-1d3e-44d3-9020-ed78f6b0dc5e" />
 
-## VIDEO DE REPRESENTACION DE COMO QUEDARIA.
+# VIDEO DE REPRESENTACION DE COMO QUEDARIA.
 [![](https://img.youtube.com/vi/rl1b3eS5mnE/0.jpg)](https://www.youtube.com/watch?v=rl1b3eS5mnE)
+## CODIGOS DEL MAESTRO Y EL ESCLAVO.
+MAESTRO:
+
+// Variables sensor temperatura
+int pinsensortemperatura = A2;
+int entradatemperatura;
+float temperatura; //Datos temperatura
+
+// Pines salida
+int led = 5; //LED rojo
+int rele = 2; // Relé
+int ledagua=6; //LED azul
+
+// Variables sensor humedad
+int pinsensorhumedad = A0;
+int entradahumedad;
+int humedad; //Datos humedad
+
+
+// Variables sensor nivel de agua
+int pinsensoragua=A1;
+int entradaagua;
+int agua; //Datos nivel agua
+
+
+
+
+void setup() {
+Serial.begin(9600);
+pinMode(ledagua,OUTPUT);
+pinMode (led, OUTPUT);
+pinMode (rele, OUTPUT);
+
+}
+
+void loop() {
+  entradaagua = analogRead(pinsensoragua);
+  agua = map(entradaagua, 0, 1023, 0, 100);
+  //Serial.print ("Nivel agua: ");  Serial.print(agua); Serial.println(" %");
+  delay(20);
+
+ 
+  entradatemperatura = analogRead(pinsensortemperatura);
+  temperatura=(entradatemperatura* 50.0 / 1024.0);
+  //Serial.print("Temperatura: "); Serial.print (temperatura); Serial.println(" ºC");
+  delay(20);
+
+ 
+  entradahumedad = analogRead(pinsensorhumedad);
+  humedad=map(entradahumedad, 0, 1023, 0, 100);
+  //Serial.print("Valor humedad relativa: "); Serial.print (humedad); Serial.println(" %");
+  delay (20);
+
+ /*A TENER EN CUENTA:
+    - La programación del relé está funcionado al revés para hacer que funcione correctamente.
+ */
+
+ //Nivel de agua bajo, paramos todo y conectamos LED azul
+  if (agua <= 30){
+    digitalWrite(ledagua, HIGH);
+    Serial.write("a");
+    digitalWrite(led, LOW);
+    digitalWrite(rele, HIGH);
+   
+  }
+  //Nivel de agua óptimo, paramos LED azul y vemos si debemos regar
+  if (agua > 30){
+    digitalWrite(ledagua, LOW);
+    Serial.write("b");
+    //Si la humedad es baja, podemos regar pero....  
+    if (humedad <= 50){
+        //Si la temperatura es alta paramos el relé y activamos el LED rojo de advertencia
+        if (temperatura > 50){
+          digitalWrite (led, HIGH);
+          Serial.write("c");
+          digitalWrite (rele, HIGH);
+        }
+        //Si la temperatura es baja entonces regamos (LED rojo apagado y activamos el relé)
+        if (temperatura < 50){
+          digitalWrite (led, LOW);
+          Serial.write("d");
+          digitalWrite (rele, LOW);
+        }
+    }
+    //Si la humedad es alta no regamos ni damos señal de advertencia
+    if (humedad > 50){
+      digitalWrite (led, LOW);
+      Serial.write("d");
+      digitalWrite (rele, HIGH);
+    }
+
+  }
+ 
+  delay (20);
+}
+
+
+
+ESCLAVO:
+
+int ledagua = 5;
+int ledtemperatura = 6;
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(ledagua,OUTPUT);
+  pinMode(ledtemperatura,OUTPUT);
+}
+void loop() {
+  // put your main code here, to run repeatedly:
+  if (Serial.available()){
+      char dato = Serial.read();
+      if (dato=="a"){
+        digitalWrite(ledagua, HIGH);
+      }
+     
+      if (dato=="b"){
+        digitalWrite(ledagua, LOW);
+      }
+     
+      if (dato=="c"){
+        digitalWrite(ledtemperatura, HIGH);
+      }
+     
+      if (dato=="d"){
+        digitalWrite(ledtemperatura, LOW);
+      }
+  }
+
+}
