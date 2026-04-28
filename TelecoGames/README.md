@@ -202,7 +202,7 @@ Para todo esto hemos tenido que usar un relé para que nos ayude con el tiempo q
 # VIDEO DE REPRESENTACION DE COMO QUEDARIA.
 [![](https://img.youtube.com/vi/rl1b3eS5mnE/0.jpg)](https://www.youtube.com/watch?v=rl1b3eS5mnE)
 ## CODIGOS DEL MAESTRO Y EL ESCLAVO.
-MAESTRO:
+## MAESTRO:
 
 // Variables sensor temperatura
 int pinsensortemperatura = A2;
@@ -299,7 +299,7 @@ void loop() {
 
 
 
-ESCLAVO:
+## ESCLAVO:
 
 int ledagua = 5;
 int ledtemperatura = 6;
