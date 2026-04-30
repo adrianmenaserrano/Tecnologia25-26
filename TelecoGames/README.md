@@ -212,3 +212,20 @@ Para todo esto hemos tenido que usar un relé para que nos ayude con el tiempo q
 
 # EXPLICACION DEL CODIGO
 ## ¿QUE HACE EL MAESTRO?
+Para empezar cogemos el softwere serial.h de la libreria una vez hecho le poneos el nombre miBt( asi nos referimos al bluetooth) cuando hallamos echo eso empezamos con las variables del sensor de temperatura,humedad y de nivel de agua.Luego colocareos los pines de entrada que son el led 5, el rele 2 y el leddeagua que es el 6.
+
+Ahora tenemos el voidSetup es una cosa que cada vez que iniciemos la placa se activara solo una vez es lo que por asi decirlo da vida al codigo entonces una vez que sabes esto lo que hace este voidsetup es lo siguiente. Con el serialbegin es marcarte la velocidad en la que el bluetooth le llegan los datos que tu quieres enviarle (más en expecifico son 9600 baudios). Luego dentro de ahi tenemos los pinMode que lo que te dice como deberian en este caso los dos leds y el rele que lo que te dicen es que estan de salida.
+
+Ahora nos metemos en el voidloop que lo que hace es que todo lo que metamos de codigo en esa parti se va ha repetir constantemente.Entonces vamos a poner el entradadeagua en una analogread para que este leyendo constante mente el ledagua. Luego pondremos que agua=map eso lo que hace es que este mapeando el nivel de agua que haya pero con la idea de que en vez de que te marque con números muy grades te marcara con el porcentaje de agua que tenga la planta.
+
+Luego tenemos lo mismo pero con el de temperatura que lo que hace es decirte a cuantos grados esta la planta o si hae temperaturas muy altas muy bajas o esta normal. Y ya por ultimo esta el de humedad que hace lo mismo que los anterires que con porcentajes que luegon aparecen en el monitorSeries te mmarcara el porcentaje de humedad que tiene la planta.
+
+Despues de contar que hace los distintos sensores le daremos un delay a miBT.print (agua) que es lo que manda en base de codigo o texto el bluetooth.(Hay que tener en cuent de que el relé esta funcionando al reves para hacer que funcione correctamente).
+Ahora toca la parte de los if el if es la parte que te dice si pasa una cosa hace esto pero si pasa otra cosa hace lo otro es una estructura que controla las opciones que tiene.
+Una vez explicado eso lo que hace este if es que si el nivel de agua es menor que 30 se para todo y el led azul se encendera diciendo que necesita agua.
+pero por el contrario si el nivel de agua es bueno paramos el led azul y vemos si necesita más agua o menos todo esto se hace mediante digitalWrite que como he explicado antes la funcion es decir si estan encendidos o apagados.Asi va a ser lo mismo tanto con el de temperatura como con el de humedad si es mayor de lo debido se para todo y se enciende el led azul  y si esta todo sobresaturado activamos el led rojo como advertencia y se enciende el relé y ya todo esto ponemos un delay de 20 milisegundos.
+
+## ¿COMO FUNCIONA EL ESCLAVO?
+El exclavo es lo ismo solo con la diferencia de que el al ser el esclavo es el que recibe las señales del maestro por lo tanto es el que enos codigo tiene entonces una vez sabido eso lo que hace el esclavo es.
+
+ponemos en la libreria el SoftwareSreial.h igual que en el maestro y ponemos el int del ledagua en el 5 y el int en el led de temperatura en el 6
