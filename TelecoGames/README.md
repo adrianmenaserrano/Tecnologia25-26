@@ -226,6 +226,11 @@ Una vez explicado eso lo que hace este if es que si el nivel de agua es menor qu
 pero por el contrario si el nivel de agua es bueno paramos el led azul y vemos si necesita más agua o menos todo esto se hace mediante digitalWrite que como he explicado antes la funcion es decir si estan encendidos o apagados.Asi va a ser lo mismo tanto con el de temperatura como con el de humedad si es mayor de lo debido se para todo y se enciende el led azul  y si esta todo sobresaturado activamos el led rojo como advertencia y se enciende el relé y ya todo esto ponemos un delay de 20 milisegundos.
 
 ## ¿COMO FUNCIONA EL ESCLAVO?
-El exclavo es lo ismo solo con la diferencia de que el al ser el esclavo es el que recibe las señales del maestro por lo tanto es el que enos codigo tiene entonces una vez sabido eso lo que hace el esclavo es.
+El exclavo es lo mismo solo con la diferencia de que el al ser el esclavo es el que recibe las señales del maestro por lo tanto es el que menos codigo tiene entonces una vez sabido eso lo que hace el esclavo es. 
 
-ponemos en la libreria el SoftwareSreial.h igual que en el maestro y ponemos el int del ledagua en el 5 y el int en el led de temperatura en el 6
+
+ponemos en la libreria el SoftwareSreial.h al igual que en el maestro y ponemos el int del ledagua en el 5 y el int en el led de temperatura en el 6 estos dos led vayan al 5 y al 6 el led agua es el diodo led azul y el de temperatura es el diodo led rojo.
+
+Despues esta el void setup que empieza con el serialbeging que esta en (9600) baudios que es la velocidad de descarga,luego esta el miBT.begin que hace lo mismo que el seril.beging solo que va para los modulos bluetooth y por ultimo los pinmodes hacen que los leds de temperatura y agua se activen y ademas controlen el voltaje que puedan llegar a soportar eso leds.
+
+Luego esta el voidloop que lo que hay dentro son ifs que lo que te explican es que si esto pasa hara esta cosa y sino pasa hara la segunda opcion. Una vez dicho para que sirven te explico que hay en los ifs. En el primer if lo que hay es un miBT.avaliable que lo que hace es enviarle señales al serial.write(miBT) para que el serial.write pueda escribirlo y pasarlo al monitorSeries pero si el dato es 1 escribira que el led agua esta encendido y por el contrario si dato es 2 el ledagua estara apagado. Tambien pasa con el ledtemperatura si el dato es 4 el ledtemperatura estara encndido y por el contrario si dato es 5 el ledtemperatura estara apagado
