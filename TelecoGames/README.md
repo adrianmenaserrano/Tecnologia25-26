@@ -235,6 +235,7 @@ Despues esta el void setup que empieza con el serialbeging que esta en (9600) ba
 
 Luego esta el voidloop que lo que hay dentro son ifs que lo que te explican es que si esto pasa hara esta cosa y sino pasa hara la segunda opcion. Una vez dicho para que sirven te explico que hay en los ifs. En el primer if lo que hay es un miBT.avaliable que lo que hace es enviarle señales al serial.write(miBT) para que el serial.write pueda escribirlo y pasarlo al monitorSeries pero si el dato es 1 escribira que el led agua esta encendido y por el contrario si dato es 2 el ledagua estara apagado. Tambien pasa con el ledtemperatura si el dato es 4 el ledtemperatura estara encndido y por el contrario si dato es 5 el ledtemperatura estara apagado
 
-# CONFIGURACION DEL BLUETOOTH
-<img width="393" height="353" alt="image" src="https://github.com/user-attachments/assets/c2857d59-d9f1-4f74-887a-4c0a86eae149" />
+# CONFIGURACION DEL BLUETOOTH Y SU EXPLICACION
+<img width="393" height="353" alt="image" src="https://github.com/user-attachments/assets/30b3fc28-123b-470d-8894-d761e4ef6e50" />
 
+Este codigo empieza igual que todos incluyendo el softwerSerial.h luego en el softwerserial ponemos que miBT vaya a los pines 10y 11 de las partes de tx y rx luego esta el void setup que esta lo mismo que he explicado antes el Serial.Beging y el miBT.beging que ya los he explicado antes. Por ultimo del void setup hay un serial.print que lo que hace es introducir el comando AT que es lo que lo vuelve esclavo. Luego esta el void loop que lo que hace es que si la escritura viene en serial begin con la lectura lo pasamos a miBT para que se pueda enviar alos modulos bluetooth esto pasa con el maestro para enviar iformación y si la lectura es miBT con el miBT read la pasamos a serial begin transformando y recibiendo información siendo el esclavo.
