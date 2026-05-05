@@ -239,3 +239,9 @@ Luego esta el voidloop que lo que hay dentro son ifs que lo que te explican es q
 <img width="393" height="353" alt="image" src="https://github.com/user-attachments/assets/30b3fc28-123b-470d-8894-d761e4ef6e50" />
 
 Este codigo empieza igual que todos incluyendo el softwerSerial.h luego en el softwerserial ponemos que miBT vaya a los pines 10y 11 de las partes de tx y rx luego esta el void setup que esta lo mismo que he explicado antes el Serial.Beging y el miBT.beging que ya los he explicado antes. Por ultimo del void setup hay un serial.print que lo que hace es introducir el comando AT que es lo que lo vuelve esclavo. Luego esta el void loop que lo que hace es que si la escritura viene en serial begin con la lectura lo pasamos a miBT para que se pueda enviar alos modulos bluetooth esto pasa con el maestro para enviar iformación y si la lectura es miBT con el miBT read la pasamos a serial begin transformando y recibiendo información siendo el esclavo.
+
+## IMAGENES DEL HARDWARE EN TINKERCAD
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/071ad9d1-893a-4744-bfb4-7e607a05d147" /><img width="860" height="673" alt="image" src="https://github.com/user-attachments/assets/1982a00d-8c00-49ad-ae0e-0b4ca2e54e98" /><img width="1063" height="615" alt="image" src="https://github.com/user-attachments/assets/877a37d7-76a9-4e62-a85b-18ffe401833a" /><img width="1335" height="671" alt="image" src="https://github.com/user-attachments/assets/2ddc047c-3597-4454-84c5-024f2827f0db" />
+
+
+
