@@ -234,3 +234,7 @@ ponemos en la libreria el SoftwareSreial.h al igual que en el maestro y ponemos 
 Despues esta el void setup que empieza con el serialbeging que esta en (9600) baudios que es la velocidad de descarga,luego esta el miBT.begin que hace lo mismo que el seril.beging solo que va para los modulos bluetooth y por ultimo los pinmodes hacen que los leds de temperatura y agua se activen y ademas controlen el voltaje que puedan llegar a soportar eso leds.
 
 Luego esta el voidloop que lo que hay dentro son ifs que lo que te explican es que si esto pasa hara esta cosa y sino pasa hara la segunda opcion. Una vez dicho para que sirven te explico que hay en los ifs. En el primer if lo que hay es un miBT.avaliable que lo que hace es enviarle señales al serial.write(miBT) para que el serial.write pueda escribirlo y pasarlo al monitorSeries pero si el dato es 1 escribira que el led agua esta encendido y por el contrario si dato es 2 el ledagua estara apagado. Tambien pasa con el ledtemperatura si el dato es 4 el ledtemperatura estara encndido y por el contrario si dato es 5 el ledtemperatura estara apagado
+
+# CONFIGURACION DEL BLUETOOTH
+<img width="393" height="353" alt="image" src="https://github.com/user-attachments/assets/c2857d59-d9f1-4f74-887a-4c0a86eae149" />
+
