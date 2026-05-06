@@ -245,7 +245,10 @@ Este codigo empieza igual que todos incluyendo el softwerSerial.h luego en el so
 
 # ¿COMO INFLUYE EN LA ODS?
 influye en estos tres tipos.
+
 3:Salud y bienestar.
+
 9: Industria renovación e infraestructura.
+
 12: Producción y consumo responsable.
 
