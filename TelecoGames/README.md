@@ -244,6 +244,8 @@ Este codigo empieza igual que todos incluyendo el softwerSerial.h luego en el so
 <img width="860" height="673" alt="image" src="https://github.com/user-attachments/assets/1982a00d-8c00-49ad-ae0e-0b4ca2e54e98" /><img width="1063" height="615" alt="image" src="https://github.com/user-attachments/assets/877a37d7-76a9-4e62-a85b-18ffe401833a" /><img width="1335" height="671" alt="image" src="https://github.com/user-attachments/assets/2ddc047c-3597-4454-84c5-024f2827f0db" />
 
 # ¿COMO INFLUYE EN LA ODS?
+<img width="551" height="283" alt="image" src="https://github.com/user-attachments/assets/4e20efeb-d509-473a-a16f-d205df3d64df" />
+
 influye en estos tres tipos.
 
 3:Salud y bienestar.
