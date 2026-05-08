@@ -254,3 +254,8 @@ influye en estos tres tipos.
 
 12: Producción y consumo responsable.
 
+Todo esto es para que la salud y la bienestar de nuestros alimentos pueda salir sin tener que meterle sabores artificiales o algun producto externo que sea simplemente el sabor de un vegetal normal.
+
+Para las industrias seria un paso para la produccion que sera más rapida y aunque ella más despidos seria una soluccion economica para muchas empresas y personas.
+
+ Para la produccion seria el doble de rapido para poder hacer las cosas sin que tu estes constantemente atento a que tus vegetales esten en orden para ello el invernadero inteligente te ahorrara horas de sueño 
