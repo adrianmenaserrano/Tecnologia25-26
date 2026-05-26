@@ -30,6 +30,7 @@ Son un grupo del IES Az-zait que sus nombres son  Daniel Boyano Lomas, Óliver L
 
 Y su segundo objetivo es tendran que esquivar los distintosobjetos que aparecen alrededor del tablero.
 
+
 Para ello el robot tiene unas condiciones que fueron
 
 Los parámetros del robot tienen que ser los siguientes:
