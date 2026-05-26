@@ -43,6 +43,8 @@ Los parámetros del robot tienen que ser los siguientes:
 
 Los materiales que han usado son PLA que es lo que se usa para poderhacer las formas de los objetos en 3D entonces los PLAs que se han usado fueron la base de color negro gris para el eje y amarillo ocre para nivelar los motores con las ruedas luego para el cerebro del robot usaron un Arduino y un shield con una protoboard encima.Para los detectores usaron tres de ultrasonido y para la energia del robot usaron portapilas de 3,7 V.
 
+El mecanica tiene un motor trasero dirigido por un servomotor de 180 posiciones unido ha un sistema complejo de direcciones de las ruedas deanteras controlado a su vez por el robot.
+
 Para su programación se hizo en arduino.Algunos problemas que se encontraron fueron lo modelos del robot tuvieron que mejorar el eje por lo que hacia era que e atascara y la poca resistencia que ponne el PLAs a la hora de intentar hacer el robot con ese material.
 
 Propuestas de mejora fueron añadirles más cosas al robot como un giroscopio o una camara.
