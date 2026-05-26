@@ -51,4 +51,4 @@ Propuestas de mejora fueron añadirles más cosas al robot como un giroscopio o 
 
 Luego esta su electronica que lo que hicieron fue onerle una fuente de alientacion con 2 baterías de 3.7V por ud.un modelo TR18650 de 9900mAH y un escudo para que canalice las señales.
 
-La conclusion que saco yo de eso projecto es que la idea que tienen es muy buena en base a lo que estan usando paro han tenido más problemas que mejoras y para mi eso se deberian de ir puliendo para la proxima vez.
+La conclusion que saco yo de ese projecto es que la idea que tienen es muy buena en base a lo que estan usando paro han tenido más problemas que mejoras y para mi eso se deberian de ir puliendo para la proxima vez.
