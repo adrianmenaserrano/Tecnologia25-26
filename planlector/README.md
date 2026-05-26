@@ -26,7 +26,7 @@ Con:invernaderos inteligentes,sistemas de alimentación automática,comunicació
 https://circularfab.es/tecnologia-agricola-inteligente-con-arduino/?authuser=0
 
 # RESUMEN DEL TEXTO ANALISIS DE PROJECTOS
-Son un grupo del IES Az-zait que sus nombres son  Daniel Boyano Lomas, Óliver López MartÍnez y Carmen Cruz Pérez encargados en hacer un robot que debe dar vueltas alrededor de un centro que estará colocado aleatoriamente en el tablero cuadrado que recorreran,en esta tarea aparte de eso tampoco se pueden chocar con ninguna paared.
+Son un grupo del IES Az-zait que sus nombres son  Daniel Boyano Lomas, Óliver López MartÍnez y Carmen Cruz Pérez encargados en hacer un robot que debe recorrer el tablero cpn obstaculos y hecer que el robot no se choque ni una sola vez
 
 Y su segundo objetivo es tendran que esquivar los distintosobjetos que aparecen alrededor del tablero.
 
