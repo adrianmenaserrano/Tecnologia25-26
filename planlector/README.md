@@ -30,6 +30,16 @@ Son un grupo del IES Az-zait que sus nombres son  Daniel Boyano Lomas, Óliver L
 
 Y su segundo objetivo es tendran que esquivar los distintosobjetos que aparecen alrededor del tablero.
 
+Para ello el robot tiene unas condiciones que fueron
+
+Los parámetros del robot tienen que ser los siguientes:
+
+30 cm de largo
+20 cm de ancho
+30 cm de alto
+Uso de una controladora Arduinotm
+Uso de materiales propios.
+
 Los materiales que han usado son PLA que es lo que se usa para poderhacer las formas de los objetos en 3D entonces los PLAs que se han usado fueron la base de color negro gris para el eje y amarillo ocre para nivelar los motores con las ruedas luego para el cerebro del robot usaron un Arduino y un shield con una protoboard encima.Para los detectores usaron tres de ultrasonido y para la energia del robot usaron portapilas de 3,7 V.
 
 Para su programación se hizo en arduino.Algunos problemas que se encontraron fueron lo modelos del robot tuvieron que mejorar el eje por lo que hacia era que e atascara y la poca resistencia que ponne el PLAs a la hora de intentar hacer el robot con ese material.
