@@ -34,11 +34,11 @@ Para ello el robot tiene unas condiciones que fueron
 
 Los parámetros del robot tienen que ser los siguientes:
 
-30 cm de largo
-20 cm de ancho
-30 cm de alto
-Uso de una controladora Arduinotm
-Uso de materiales propios.
+- 30 cm de largo
+- 20 cm de ancho
+- 30 cm de alto
+- Uso de una controladora Arduino
+- Uso de materiales propios.
 
 Los materiales que han usado son PLA que es lo que se usa para poderhacer las formas de los objetos en 3D entonces los PLAs que se han usado fueron la base de color negro gris para el eje y amarillo ocre para nivelar los motores con las ruedas luego para el cerebro del robot usaron un Arduino y un shield con una protoboard encima.Para los detectores usaron tres de ultrasonido y para la energia del robot usaron portapilas de 3,7 V.
 
