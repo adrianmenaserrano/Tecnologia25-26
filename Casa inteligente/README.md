@@ -12,3 +12,8 @@ Alfinal no cogimos el boceto de esa casa inteligente por eso lo que vamos ha hac
 Mi parte del trabajo es hacer una pared que mide de largo 180cm, ancho 125cm y de alto 5cm. En esa pared tuve que poner una ventana a la derecha de la pared y el resultado de como quedaria la pared terminada es asi.
 
 <img width="367" height="360" alt="image" src="https://github.com/user-attachments/assets/1549ea19-8ee0-4faa-883f-402817042782" />
+
+# MEDIDAS
+## PARED CON HUECO
+<img width="495" height="268" alt="image" src="https://github.com/user-attachments/assets/5eb9b931-5ce6-4a3e-9d90-9995cf32624e" />
+
