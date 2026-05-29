@@ -16,4 +16,7 @@ Mi parte del trabajo es hacer una pared que mide de largo 180cm, ancho 125cm y d
 # MEDIDAS
 ## PARED CON HUECO
 <img width="495" height="268" alt="image" src="https://github.com/user-attachments/assets/5eb9b931-5ce6-4a3e-9d90-9995cf32624e" />
-
+## MARCO
+<img width="288" height="115" alt="image" src="https://github.com/user-attachments/assets/4e98f71c-bb71-4fee-80d9-c05e71fc5eac" />
+## VENTANA
+<img width="203" height="129" alt="image" src="https://github.com/user-attachments/assets/701dd387-b66d-43fa-a78e-eb784fdcdb09" />
