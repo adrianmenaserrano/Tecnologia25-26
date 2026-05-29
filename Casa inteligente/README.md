@@ -1,4 +1,4 @@
-¿QUE VAMOS HA HACER?
+# ¿QUE VAMOS HA HACER?
 La idea de este trabajo es hacer una casa inteligente que como su nombre dice lo vamos ha automatizar y para ello queremos hacer son puestas luces y cochera inteligente.
 
 Para la cochera hemos pensado en hacer que con dos servos consigan hacer que la puerta se habra o se cierre automaticamente.Tambien la idea que tenemos es poder encender las luces con sensores de movimiento y que con la ayuda de paneles solares pueda tener energia ilimitada por parte del sol.
